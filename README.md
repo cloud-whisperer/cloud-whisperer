@@ -2,10 +2,9 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 ![image]({BadgeURLHere})
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-![image]({BadgeURLHere})
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+
 <!--
 **cloud-whisperer/cloud-whisperer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
