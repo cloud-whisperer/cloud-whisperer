@@ -1,7 +1,7 @@
 
 <!HTML>
 <body>
-<h1>## cloud-whisperer 🕷️💻🍕:de:</h1>
+<h1>## cloud-whisperer 🕷️💻🍕</h1>
 <p><h1>Languages ❤️</h1>
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
