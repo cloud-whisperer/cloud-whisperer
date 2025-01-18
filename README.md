@@ -25,6 +25,16 @@
   </p>
 </p>
 
+<p><h1>Database</h1></p>
+<p>
+  <img src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">
+</p>
+
+<p><h1>Frameworks</h1></p>
+<p>
+  <img src="![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)">
+</p>
+
 <p>
   <h1>Operating Systems</h1>
   <p>
