@@ -5,8 +5,8 @@
 <p><h1>Languages ❤️</h1>
 <p>
    <a href="https://skillicons.dev">
-   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
-   
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,cpp" />
    <img src="https://github.com/user-attachments/assets/8419a09a-d413-4b41-82b2-985f957724ce">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -62,6 +62,8 @@
 <p>
   <h1>Operating Systems</h1>
   <p>
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim" />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/ >
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ >
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/ >
