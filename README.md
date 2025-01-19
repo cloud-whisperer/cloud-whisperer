@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/21d303fe-20ab-4cdf-9607-35b0d45bcb8d)
-![image](https://github.com/user-attachments/assets/7c1bf2e3-3ff1-43ba-93d7-871cdfdc6e15)
+
+
 
 
 <!HTML>
@@ -15,6 +15,7 @@
 </p>
 <p><h1>Cloud Service Providers </h1>
 <p>
+  ![image](https://github.com/user-attachments/assets/7c1bf2e3-3ff1-43ba-93d7-871cdfdc6e15)
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
@@ -26,6 +27,7 @@
 <p>
   <h1>Network Automation Tools </h1>
   <p>
+    ![image](https://github.com/user-attachments/assets/21d303fe-20ab-4cdf-9607-35b0d45bcb8d)
     <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
     <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white"/ >
   </p>
