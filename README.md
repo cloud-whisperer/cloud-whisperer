@@ -13,7 +13,8 @@
 </p>
 <p><h1>Cloud Service Providers </h1>
 <p>
-
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=AWS-Dark" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
@@ -21,7 +22,7 @@
   <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" >
 </p>
 </p>
-  ![image](https://github.com/user-attachments/assets/7c1bf2e3-3ff1-43ba-93d7-871cdfdc6e15)
+
 <p>
   <h1>Network Automation Tools </h1>
   <p>
