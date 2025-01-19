@@ -49,6 +49,8 @@
 
 <p><h1>IDE stuff</h1></p>
 <p>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
@@ -60,8 +62,6 @@
 <p>
   <h1>Operating Systems</h1>
   <p>
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim" />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/ >
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ >
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/ >
