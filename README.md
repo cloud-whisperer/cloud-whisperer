@@ -5,7 +5,6 @@
 <p><h1>Languages ❤️</h1>
 <p>
    <a href="https://skillicons.dev">
-   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vim,cpp" />
    <img src="https://github.com/user-attachments/assets/8419a09a-d413-4b41-82b2-985f957724ce">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
