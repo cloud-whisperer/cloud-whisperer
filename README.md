@@ -94,7 +94,7 @@
   <h1>Workflow Platforms</h1>
   <p>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-    <img src="">
+    
   </p>
 </p>
 <!--
