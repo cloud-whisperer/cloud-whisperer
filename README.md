@@ -33,7 +33,7 @@
 
 <p><h1>Frameworks</h1></p>
 <p>
-  <img src="![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </p>
 
 <p>
