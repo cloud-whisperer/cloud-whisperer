@@ -1,4 +1,5 @@
 
+
 <!HTML>
 <body>
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
@@ -63,6 +64,8 @@
 
 <p><h1>IDE stuff</h1></p>
 <p>
+   
+   <img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,regex,vim,powershell,sublime,visualstudio,vscode" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
