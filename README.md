@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </p>
 </p>
-<p><h1>Cloud Service Providers </h1>
+<p><h1>Cloud Service Providers </h1></p>
 <p>
 </p>  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" />
@@ -24,7 +24,7 @@
 </p>
 
 <p>
-  <h1>Network Automation Tools </h1>
+  <h1>Network Automation Tools </h1></p>
   <p>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions,gitlab" />
