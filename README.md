@@ -28,7 +28,7 @@
   
   <p><h1>Network Automation Tools</h1></p>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions,gitlab" />
+    <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab" />
     <!--<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white"/ > -->
   </p>
@@ -109,7 +109,8 @@
 <p>
   <h1>Workflow Platforms</h1>
   <p>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins" />
     
   </p>
 </p>
