@@ -37,7 +37,7 @@
 <p><h1>Database</h1></p>
 <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql," />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
@@ -57,11 +57,11 @@
 <p><h1>IDE stuff</h1></p>
 <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,powershell,sublime,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,regex,vim,powershell,sublime,visualstudio,vscode" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
   <!--<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> -->
   <!--<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> -->
   
 </p>
@@ -70,7 +70,7 @@
   <h1>Operating Systems</h1>
   <p>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,debian,redhat,ubuntu,linux,mint " />
+    <img src="https://skillicons.dev/icons?i=kali,debian,redhat,ubuntu,linux,mint,windows " />
    <!-- <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/ > -->
    <!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ > -->
     <!--<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/ > -->
