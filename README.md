@@ -26,9 +26,11 @@
 
 
   
-  <p><h1>Network Automation Tools</h1></p>
+  <p><h1>DevOps</h1></p>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab" />
+       <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab" />
+         <img src="https://skillicons.dev/icons?i=jenkins" />
+         <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/puppet.png" alt="Oracle" title="Oracle"/></code>
     <!--<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white"/ > -->
   </p>
@@ -117,7 +119,7 @@
   <h1>Workflow Platforms</h1>
   <p>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins" />
+   
     
   </p>
 </p>
