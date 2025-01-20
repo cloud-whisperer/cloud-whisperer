@@ -65,9 +65,9 @@
 <p><h1>IDE stuff</h1></p>
 <p>
    
-   <img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,regex,vim,powershell,sublime,visualstudio,vscode" />
+   <!--<img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37"> -->
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apache,git,regex,vim,powershell,sublime,visualstudio,vscode" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
   <!--<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> -->
   <!--<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> -->
@@ -118,14 +118,7 @@
   </p>
 </p>
 
-<p>
-  <h1>Workflow Platforms</h1>
-  <p>
-     <a href="https://skillicons.dev">
-   
-    
-  </p>
-</p>
+
 <!--
 **cloud-whisperer/cloud-whisperer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
