@@ -23,8 +23,8 @@
 </p>
 </p>
 
-
-  <p><h1>Network Automation Tools </h1></p>
+<p><h1>Network Automation Tools</h1></p>
+  
   <p>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions,gitlab" />
