@@ -67,13 +67,13 @@
    
    <!--<img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37"> -->
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apache,git,regex,vim,powershell,sublime,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,regex,vim,powershell,sublime,visualstudio,vscode" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
   <!--<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> -->
   <!--<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> -->
   <!--<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> -->
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="SOAP" title="SOAP"/></code>
+ <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="SOAP" title="NumPy"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" alt="SOAP" title="SOAP"/></code>
 </div>
 </p>
@@ -105,6 +105,11 @@
   <p>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
   </p>
+</p>
+
+<p>
+   <h1>Storage</h1>
+   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/ >
 </p>
 
 <p>
