@@ -4,7 +4,7 @@
 <body>
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
 <p><h1>AWS Badges</h1></p>
-<p><<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="902459b7-66a9-447a-a6a4-bab5811c7c9a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
+<p><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="902459b7-66a9-447a-a6a4-bab5811c7c9a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
 <p><h1>Languages ❤️</h1>
 <p>
    <a href="https://skillicons.dev">
