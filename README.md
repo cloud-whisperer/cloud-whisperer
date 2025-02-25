@@ -5,7 +5,11 @@
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
 <p><h1>AWS Badges</h1></p>
 <p>
-   
+   <style>
+@import ('~lucide-static/font/Lucide.css');
+</style>
+
+<div class="icon-slack"></div>
 <p><h1>Languages ❤️</h1>
 <p>
    <a href="https://skillicons.dev">
