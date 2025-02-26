@@ -26,8 +26,9 @@
  <!--<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> -->
  <!-- <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> -->
   <!--<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> -->
-   
-  <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" >
+   <!--![image](https://github.com/user-attachments/assets/3f41505a-ae6f-4f9e-aadd-146552d041a5)-->
+  <img src="https://github.com/user-attachments/assets/3f41505a-ae6f-4f9e-aadd-146552d041a5">
+  <!--<img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" >-->
 </p>
 </p>
 
