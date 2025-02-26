@@ -48,7 +48,8 @@
     <a href="https://skillicons.dev">
     <!--<img src="https://skillicons.dev/icons?i=mysql" /> -->
        <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="Oracle" title="Oracle"/></code>
-      ![image](https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552)
+      <!--![image](https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552)-->
+      <img src="https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552">
    <!--<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>-->
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
 
