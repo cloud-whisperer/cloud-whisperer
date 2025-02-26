@@ -26,6 +26,7 @@
 <p>
 </p>  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" />
+  
  <!-- <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> -->
  <!--<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> -->
  <!-- <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> -->
@@ -129,6 +130,8 @@
 <p>
   <h1>Miscellaneous</h1>
   <p>
+    <!--![image](https://github.com/user-attachments/assets/56fea176-89d2-4f42-95b4-2f5ce517d497)-->
+    <img src="https://github.com/user-attachments/assets/56fea176-89d2-4f42-95b4-2f5ce517d497">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/ >
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
