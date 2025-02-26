@@ -4,6 +4,16 @@
 <!HTML>
 <body>
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
+  <img src="https://github.com/user-attachments/assets/7e6010b2-a15c-4a35-b872-535d832111a7">
+  <img src="https://github.com/user-attachments/assets/00373233-c87d-4987-8485-6f2f71a79a8c">
+  <img src="https://github.com/user-attachments/assets/a3c9c69e-4bea-4444-8e03-40d8e1da34f7">
+  <img src="https://github.com/user-attachments/assets/baa1e4f3-c1d9-4cf7-ac55-6e49acaade45">
+  <img src="https://github.com/user-attachments/assets/97f88775-71e3-4f1e-a4c7-f1ffd68921e4">
+
+
+
+
+
 <p><h1>AWS Badges</h1></p>
 <p>
   
