@@ -24,6 +24,8 @@
 <p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,bash,python" />
+     <img src="https://github.com/user-attachments/assets/2ed09d0d-91ef-4f22-b40f-7e551f13874b">
+
     <!-- <img src="https://github.com/user-attachments/assets/c26b0df1-98b5-4408-8650-2c85aa52e444">-->
     <!-- <img src="https://github.com/user-attachments/assets/c900b096-fe49-4522-b005-32d7087f76d1"> -->
     <!-- <img src="https://github.com/user-attachments/assets/7b25b177-a092-45f6-b886-943feb3e7ef1"> -->
