@@ -234,7 +234,7 @@
     <!--<img src="https://github.com/user-attachments/assets/6511cd3f-22c5-4cf9-8b07-470add346f94"> --> 
     <!--<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>-->
     <!--<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white"/> -->
-    <img src="https://github.com/user-attachments/assets/0cd3e3f6-8365-4ec4-adbf-280d78e8e975">
+   <img src="https://github.com/user-attachments/assets/0cd3e3f6-8365-4ec4-adbf-280d78e8e975">
     <img src="https://github.com/user-attachments/assets/6e075bce-8d97-4109-9d37-c304a53fc7cb">
     <!--<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white"> -->
    <!-- <img src="https://github.com/user-attachments/assets/37aef30c-f6de-4b04-972a-21287e6793f6">-->
