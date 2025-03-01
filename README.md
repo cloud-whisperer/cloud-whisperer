@@ -39,9 +39,9 @@
 <p><h1>Cloud Service Providers and Vendours </h1></p>
 <p>
 </p>  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure" />
+    <!--<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />-->
+    <img src="https://github.com/user-attachments/assets/84beca76-c08d-4789-ac32-8644896cd0ae">
     <img src="https://github.com/user-attachments/assets/db62e5bb-7cf9-4a49-9140-25a012e70d86">
-
   <img src="https://github.com/user-attachments/assets/7e7e468c-f139-4630-9755-c1dd8b409efc">
     <img src="https://github.com/user-attachments/assets/53964924-35ad-4745-8c5f-570ee99ec3aa">
  <!-- <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> -->
