@@ -126,10 +126,11 @@
    
    <!--<img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37"> -->
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,powershell,sublime,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=regex,powershell,sublime,visualstudio" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
      <img src="https://github.com/user-attachments/assets/4f1be67e-6430-4e5a-a83d-4e5dff1c4de0">
      <img src="https://github.com/user-attachments/assets/1872a4f8-b25b-4b25-b85f-b505ddf06c38">
+     <img src="https://github.com/user-attachments/assets/db6dbe59-887d-4027-b86d-50bf8b0b3793">
 
 
   <!--<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> -->
@@ -191,6 +192,7 @@
    <img src="https://github.com/user-attachments/assets/482880f8-82e5-4276-81a5-64d9ae505573">
     <img src="https://github.com/user-attachments/assets/503db8e9-ada7-4bfc-8ede-876a4ab6999a">
     <img src="https://github.com/user-attachments/assets/678db125-29ac-47cf-86a8-a3ced5b83772">
+    <img src="https://github.com/user-attachments/assets/cfad83d5-c87a-4ad0-a5f9-ecdf9b8e130d">
 
    
 
