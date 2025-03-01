@@ -219,6 +219,9 @@
     <img src="https://github.com/user-attachments/assets/6e075bce-8d97-4109-9d37-c304a53fc7cb">
     <!--<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white"> -->
     <img src="https://github.com/user-attachments/assets/37aef30c-f6de-4b04-972a-21287e6793f6">
+    <img src="https://github.com/user-attachments/assets/0e88269c-3023-4249-bcf2-61ac8cbeba51">
+    <img src="https://github.com/user-attachments/assets/bc41f67c-a00a-428b-b182-5e331f9d9afb">
+
   </p>
 </p>
 
