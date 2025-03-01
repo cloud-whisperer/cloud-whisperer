@@ -111,7 +111,8 @@
   <p>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,debian,redhat,ubuntu,linux,mint,windows " />
-    <img src="https://github.com/user-attachments/assets/30477c9b-a30b-4aae-b330-7e14e05419f5">
+    <img src="https://github.com/user-attachments/assets/2ab32c4d-db2a-4dee-9396-fe2dc25e3ad4">
+
    <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white">
    <!-- <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/ > -->
    <!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ > -->
