@@ -111,13 +111,12 @@
   <p>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,debian,redhat,ubuntu,linux,mint,windows " />
-
    <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white">
    <!-- <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/ > -->
    <!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ > -->
     <!--<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/ > -->
     <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
-    <img src="https://github.com/user-attachments/assets/ab9bfe61-dfbc-4773-938a-658a83c11364">
+       <img src="https://github.com/user-attachments/assets/ab9bfe61-dfbc-4773-938a-658a83c11364">
 
     <!--<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
     
