@@ -89,7 +89,9 @@
 <p><h1>Frameworks</h1></p>
 <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,cmake,dotnet" />
+    <img src="https://skillicons.dev/icons?i=nginx,dotnet" />
+    <img src="https://github.com/user-attachments/assets/87694c44-75bb-4f6f-8aa3-854b78089f7d">
+
   <!--<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">-->
