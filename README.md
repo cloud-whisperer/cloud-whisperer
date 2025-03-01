@@ -46,6 +46,8 @@
     <img src="https://github.com/user-attachments/assets/db62e5bb-7cf9-4a49-9140-25a012e70d86">
   <img src="https://github.com/user-attachments/assets/7e7e468c-f139-4630-9755-c1dd8b409efc">
     <img src="https://github.com/user-attachments/assets/53964924-35ad-4745-8c5f-570ee99ec3aa">
+  <img src="https://github.com/user-attachments/assets/d532369c-17a3-4ac0-bb7b-40ed7706a174">
+
  <!-- <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> -->
  <!--<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> -->
  <!-- <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> -->
