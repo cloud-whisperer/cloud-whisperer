@@ -227,18 +227,11 @@
     <!--<img src="https://github.com/user-attachments/assets/df6e9640-5cee-4829-98d7-c4b17d2ad4ca">-->
     <img src="https://github.com/user-attachments/assets/0db41aac-386b-403f-9e69-3fe68202ae28">
 
-  <!--<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/ > -->
- 
-   <!--<img src="https://github.com/user-attachments/assets/8462c3ff-357d-436c-9b08-b425972965be"> --> 
-  <!-- <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>-->
-    <!--<img src="https://github.com/user-attachments/assets/6511cd3f-22c5-4cf9-8b07-470add346f94"> --> 
-    <!--<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>-->
-    <!--<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white"/> -->
+  
    <img src="https://github.com/user-attachments/assets/0cd3e3f6-8365-4ec4-adbf-280d78e8e975">
     <img src="https://github.com/user-attachments/assets/6e075bce-8d97-4109-9d37-c304a53fc7cb">
-    <!--<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white"> -->
-   <!-- <img src="https://github.com/user-attachments/assets/37aef30c-f6de-4b04-972a-21287e6793f6">-->
-    <img src="https://github.com/user-attachments/assets/0e88269c-3023-4249-bcf2-61ac8cbeba51">
+   
+   <img src="https://github.com/user-attachments/assets/0e88269c-3023-4249-bcf2-61ac8cbeba51">
     <img src="https://github.com/user-attachments/assets/bc41f67c-a00a-428b-b182-5e331f9d9afb">
     <img src="https://github.com/user-attachments/assets/adfdaa86-c84b-4497-8edb-90794664cf0d">
     <img src="https://github.com/user-attachments/assets/690744ab-3d37-4e18-8598-6c4ed01962c9">
