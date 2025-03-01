@@ -137,6 +137,8 @@
    <!--<img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37"> -->
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=regex,powershell,sublime,visualstudio" />
+    <img src="https://github.com/user-attachments/assets/388b4f6c-70db-4b68-9143-683c1c2684c5">
+
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
      <img src="https://github.com/user-attachments/assets/4f1be67e-6430-4e5a-a83d-4e5dff1c4de0">
      <img src="https://github.com/user-attachments/assets/1872a4f8-b25b-4b25-b85f-b505ddf06c38">
