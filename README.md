@@ -48,6 +48,8 @@
   <!--<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> -->
    <!--![image](https://github.com/user-attachments/assets/3f41505a-ae6f-4f9e-aadd-146552d041a5)-->
   <img src="https://github.com/user-attachments/assets/915ba14d-bd94-467c-b3be-a354d6861f1d">
+  <img src="https://github.com/user-attachments/assets/5f0361ba-6fae-4042-996d-3c7f474b5e34">
+
   <!--<img src="https://github.com/user-attachments/assets/3f41505a-ae6f-4f9e-aadd-146552d041a5">-->
   <!--<img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" >-->
 </p>
