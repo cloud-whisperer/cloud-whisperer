@@ -64,7 +64,7 @@
   <p><h1>DevOps</h1></p>
      <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab" />
-       <img src="https://github.com/user-attachments/assets/57a4f640-6f66-425b-868c-36305d1f357f">
+
 
          
   </p>
