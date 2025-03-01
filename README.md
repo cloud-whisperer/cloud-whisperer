@@ -5,7 +5,7 @@
 <!HTML>
 <body>
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
-<img src="https://github.com/user-attachments/assets/ff85f01a-4097-4a46-8305-f5797eaf83cd">
+
 
 
  
