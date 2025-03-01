@@ -64,6 +64,8 @@
   <p><h1>DevOps</h1></p>
      <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab" />
+       <img src="https://github.com/user-attachments/assets/57a4f640-6f66-425b-868c-36305d1f357f">
+
          <img src="https://skillicons.dev/icons?i=jenkins" />
          <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/puppet.png" alt="Puppet" title="Oracle"/></code>
     <!--<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> -->
