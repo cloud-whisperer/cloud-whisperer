@@ -151,6 +151,7 @@
   <img src="https://github.com/user-attachments/assets/8f4cd54c-4bb1-4bfd-a98d-809cab9f7acf">
     <img src="https://github.com/user-attachments/assets/56fea176-89d2-4f42-95b4-2f5ce517d497">
     <!--<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/ > -->
+    <img src="https://github.com/user-attachments/assets/8462c3ff-357d-436c-9b08-b425972965be">
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white"/>
