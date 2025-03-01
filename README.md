@@ -138,7 +138,9 @@
 
 <p>
    <h1>Storage</h1>
-   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/ >
+  <img src="https://github.com/user-attachments/assets/d6c7232d-9b4b-4f91-b433-8be5cfda6137">
+
+   <!--<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/ >-->
 </p>
 
 <p>
