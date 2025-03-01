@@ -127,7 +127,7 @@
   <h1>Operating Systems</h1>
   <p>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,debian,redhat,ubuntu,linux,mint,windows " />
+    <img src="https://skillicons.dev/icons?i=kali,redhat,ubuntu,linux,mint,windows " />
    <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white">
    <!-- <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/ > -->
    <!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ > -->
@@ -135,6 +135,8 @@
     <!--<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">-->
        <!--<img src="https://github.com/user-attachments/assets/ab9bfe61-dfbc-4773-938a-658a83c11364">-->
        <img src="https://github.com/user-attachments/assets/40acdd68-83bc-43df-916f-1ddb0d9abb97">
+       <img src="https://github.com/user-attachments/assets/c4e0ef75-ac32-4df1-a246-1c2d408b3065">
+
 
 
     
