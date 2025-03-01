@@ -204,7 +204,7 @@
     <!--![image](https://github.com/user-attachments/assets/0e143fd3-8f26-46d9-a302-140773c3a94d)-->
   <img src="https://github.com/user-attachments/assets/0e143fd3-8f26-46d9-a302-140773c3a94d">
   <img src="https://github.com/user-attachments/assets/8f4cd54c-4bb1-4bfd-a98d-809cab9f7acf">
-    <img src="https://github.com/user-attachments/assets/56fea176-89d2-4f42-95b4-2f5ce517d497">
+   <!-- <img src="https://github.com/user-attachments/assets/56fea176-89d2-4f42-95b4-2f5ce517d497">-->
     <!--<img src="https://github.com/user-attachments/assets/df6e9640-5cee-4829-98d7-c4b17d2ad4ca">-->
     <img src="https://github.com/user-attachments/assets/0db41aac-386b-403f-9e69-3fe68202ae28">
 
@@ -218,7 +218,7 @@
     <img src="https://github.com/user-attachments/assets/0cd3e3f6-8365-4ec4-adbf-280d78e8e975">
     <img src="https://github.com/user-attachments/assets/6e075bce-8d97-4109-9d37-c304a53fc7cb">
     <!--<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white"> -->
-    <img src="https://github.com/user-attachments/assets/37aef30c-f6de-4b04-972a-21287e6793f6">
+   <!-- <img src="https://github.com/user-attachments/assets/37aef30c-f6de-4b04-972a-21287e6793f6">-->
     <img src="https://github.com/user-attachments/assets/0e88269c-3023-4249-bcf2-61ac8cbeba51">
     <img src="https://github.com/user-attachments/assets/bc41f67c-a00a-428b-b182-5e331f9d9afb">
 
