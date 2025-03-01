@@ -124,6 +124,8 @@
 <p>
   <h1>Securite Platforms</h1>
   <p>
+    <img src="https://github.com/user-attachments/assets/e3b6351e-3de2-4a14-95c1-e85ab98db14e">
+
     <img src="https://github.com/user-attachments/assets/98a5ddd2-faac-4c7a-9cbb-9582bf76efc4">
     <img src="https://github.com/user-attachments/assets/b9281cb1-5f7d-4989-a31c-41d6ab41ab29">
     <!--<img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />-->
