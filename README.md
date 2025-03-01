@@ -128,7 +128,9 @@
    <!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/ > -->
     <!--<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/ > -->
     <!--<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">-->
-       <img src="https://github.com/user-attachments/assets/ab9bfe61-dfbc-4773-938a-658a83c11364">
+       <!--<img src="https://github.com/user-attachments/assets/ab9bfe61-dfbc-4773-938a-658a83c11364">-->
+       <img src="https://github.com/user-attachments/assets/40acdd68-83bc-43df-916f-1ddb0d9abb97">
+
 
     
     
