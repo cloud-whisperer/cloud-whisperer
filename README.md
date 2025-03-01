@@ -88,6 +88,7 @@
   <!--<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">-->
   <img src="https://github.com/user-attachments/assets/3dc629fa-56a4-4582-a311-4de50cfb436f">
+  <img src="https://github.com/user-attachments/assets/5cc3ae31-b172-4ffb-801c-bea0c8447a74">
 
  
 </p>
