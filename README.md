@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,bash" />
     <!--<img src="https://cdn.worldvectorlogo.com/logos/c.svg">-->
      <img src="https://github.com/user-attachments/assets/09de2a54-4853-4fa6-8a61-b9a5bc1c4e4e">
-     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
+  
     
    
 
