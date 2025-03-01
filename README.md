@@ -78,7 +78,7 @@
       <img src="https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552">
    <!--<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>-->
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
-
+  <img src="https://github.com/user-attachments/assets/7ae0683e-79da-4fa3-8df1-cc6bbf7de992">
   <!-- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> -->
        
    
