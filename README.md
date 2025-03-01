@@ -4,7 +4,7 @@
 
 <!HTML>
 <body>
-<h1>## cloud-whisperer 🕷️💻🍕</h1><img src="https://github.com/user-attachments/assets/519fb57f-b2d1-4ce6-811f-e51917ac346f">
+<h1>## cloud-whisperer 🕷️💻🍕</h1>
 
 
  
