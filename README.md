@@ -73,6 +73,8 @@
 <p>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" /> 
+      <img src="https://github.com/user-attachments/assets/f8f91335-0078-4a3d-bd57-60c588e2b2c4">
+
        <!--<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="Oracle" title="Oracle"/></code>-->
       <!--![image](https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552)-->
       <!--<img src="https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552">-->
