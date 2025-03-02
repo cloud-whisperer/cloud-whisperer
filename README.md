@@ -81,18 +81,6 @@
        <img src="https://github.com/user-attachments/assets/81d7171c-b67a-4e5b-b167-6aa60e7b981e">
        <img src="https://github.com/user-attachments/assets/4df57d6b-7c49-406c-b6a3-60041aa791ef">
        <img src="https://github.com/user-attachments/assets/b975f374-c379-4058-8ce5-7d09428ca770">
-
-
-
-
-
-
-
-
-
-
-
-
          
   </p>
 </p>
@@ -114,8 +102,8 @@
 
 <p><h1>Frameworks</h1></p>
 <p>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx" />
+   <!-- <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx" /> -->
     <img src="https://github.com/user-attachments/assets/87694c44-75bb-4f6f-8aa3-854b78089f7d">
     <img src="https://github.com/user-attachments/assets/f5fc2d54-38dc-4b55-aee8-64488b223211">
 
