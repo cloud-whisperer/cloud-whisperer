@@ -28,7 +28,7 @@
   
 
 <div class="icon-slack"></div>
-<p><h1>Languages ❤️</h1>
+<p><h3>Languages ❤️</h3>
 <p> C++, Bash, Python.
   <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,bash" />
