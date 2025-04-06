@@ -23,7 +23,7 @@
 
 
 
-<p><h1>AWS Badges</h1></p>
+<!--<p><h1>AWS Badges</h1></p>-->
 <p>
   
 
