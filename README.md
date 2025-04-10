@@ -43,7 +43,7 @@
   
 </p>
 </p>
-<p><h3>Cloud Service Providers ☁️ and Vendours </h3></p>
+<p><h1>Cloud Service Providers ☁️ 🌐⚙️ and Vendours </h1></p>
 <p>Amazon Web Services
  <br>Microsoft Azure
  <br>Google Cloud
