@@ -28,7 +28,7 @@
   
 
 <div class="icon-slack"></div>
-<p><h3>Languages ❤️</h3>
+<p><h1>Languages ❤️</h1>
 <p> C++    
  <br>Bash    
  <br>Python
