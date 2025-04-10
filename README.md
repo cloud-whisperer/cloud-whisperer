@@ -78,6 +78,17 @@
       Ansible
       <br>Github Actions
       <br>Gitlab
+      <br>curl
+      <br>Docker
+      <br>PostMan
+      <br>Jenkins
+      <br>JSON
+      <br>Let's Encrypt
+      <br>NGinX
+      <br>Puppet
+      <br>SaltStack
+      <br>VirtualBox
+      <br>WireShark
       
       
 <!--  <img src="https://github.com/user-attachments/assets/24858400-fb6f-48bf-aa3d-ae2b30563317">
