@@ -84,6 +84,7 @@
       <br>Jenkins
       <br>JSON
       <br>Let's Encrypt
+      <br>Glances
       <br>NGinX
       <br>Puppet
       <br>SaltStack
