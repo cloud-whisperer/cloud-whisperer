@@ -106,8 +106,7 @@
   </p>
 </p>
 
-<p><h1>Databases  🧩🗂️</h1></p>
-<p>
+<p><h1>Databases  🧩🗂️</h1>
   <br>MySQL
   <br>Oracle 
   <br>Amazon RDBMS
