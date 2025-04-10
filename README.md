@@ -110,7 +110,7 @@
 <p>
   <br>MySQL
   <br>Oracle 
-  <Amazon RDBMS>
+  <br>Amazon RDBMS
 </p>
 
 <p><h1>Frameworks</h1></p>
