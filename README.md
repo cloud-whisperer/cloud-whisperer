@@ -107,7 +107,7 @@
 </p>
 
 <p><h1>Databases  🧩🗂️</h1>
-  <br>MySQL
+  MySQL
   <br>Oracle 
   <br>Amazon RDBMS
 </p>
