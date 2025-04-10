@@ -73,7 +73,7 @@
 
   
   <p><h1>DevOps</h1></p>
-     <a href="https://skillicons.dev">
+    <!-- <a href="https://skillicons.dev">-->
       Ansible
       <br>Github Actions
       <br>Gitlab
