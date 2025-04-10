@@ -106,7 +106,7 @@
   </p>
 </p>
 
-<p><h1>Database</h1></p>
+<p><h1>Database  🧩🗂️</h1></p>
 <p>
     <!--<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" /> -->
