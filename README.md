@@ -106,19 +106,11 @@
   </p>
 </p>
 
-<p><h1>Database  🧩🗂️</h1></p>
+<p><h1>Databases  🧩🗂️</h1></p>
 <p>
-    <!--<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" /> -->
-      <img src="https://github.com/user-attachments/assets/f8f91335-0078-4a3d-bd57-60c588e2b2c4">
-
-       
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
-  <img src="https://github.com/user-attachments/assets/7ae0683e-79da-4fa3-8df1-cc6bbf7de992">
-  <!-- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> -->
-       
-   
- <!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"> -->
+  <br>MySQL
+  <br>Oracle 
+  <Amazon RDBMS>
 </p>
 
 <p><h1>Frameworks</h1></p>
