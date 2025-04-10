@@ -112,23 +112,10 @@
   <br>Oracle 
   <br>Amazon RDBMS
 </p>
-
+<p></p>
 <p><h1>Frameworks</h1></p>
 <p>
-   <!-- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx" /> -->
-    <img src="https://github.com/user-attachments/assets/87694c44-75bb-4f6f-8aa3-854b78089f7d">
-    <img src="https://github.com/user-attachments/assets/f5fc2d54-38dc-4b55-aee8-64488b223211">
-
-  <!--<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">-->
-  <img src="https://github.com/user-attachments/assets/3dc629fa-56a4-4582-a311-4de50cfb436f">
-  <!--<img src="https://github.com/user-attachments/assets/5cc3ae31-b172-4ffb-801c-bea0c8447a74">-->
-  <!--<img src="https://github.com/user-attachments/assets/fdec09e7-632e-4980-a2b3-390ece7563e3">-->
-  <img src="https://github.com/user-attachments/assets/2e8c24aa-fba2-4817-a783-709e706cb78b">
-
+   .NET Framework
 
  
 </p>
