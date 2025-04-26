@@ -122,27 +122,14 @@
 
 <p><h1>IDE stuff</h1></p>
 <p>
-   
-   <!--<img src="https://github.com/user-attachments/assets/adcc5498-9ac0-4f2c-a66e-bff5497c2d37"> -->
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,powershell,sublime,visualstudio" />
-   
-
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-     <img src="https://github.com/user-attachments/assets/4f1be67e-6430-4e5a-a83d-4e5dff1c4de0">
-     <img src="https://github.com/user-attachments/assets/1872a4f8-b25b-4b25-b85f-b505ddf06c38">
-     <img src="https://github.com/user-attachments/assets/db6dbe59-887d-4027-b86d-50bf8b0b3793">
-
-
-  <!--<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> -->
-  <!--<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> -->
-  <!--<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> -->
-  <img src="https://github.com/user-attachments/assets/a05383ed-cadb-4baf-899f-e78c4fcae0f0">
-
- <!--<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="SOAP" title="NumPy"/></code>-->
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" alt="SOAP" title="SOAP"/></code>
-</div>
+   PowerShell
+   Sublime Text
+   Visual Studio
+   Notepad++
+   Git
+   Vim
+   VS Code
+   NumPy
 </p>
 
 <p>
