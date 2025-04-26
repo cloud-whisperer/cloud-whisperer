@@ -120,7 +120,7 @@
  
 </p>
 
-<p><h1>IDE stuff</h1>
+<p><h1>IDE stuff 💻 </h1>
    PowerShell
    <br>Sublime Text
    <br>Visual Studio
