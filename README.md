@@ -120,8 +120,7 @@
  
 </p>
 
-<p><h1>IDE stuff</h1></p>
-
+<p><h1>IDE stuff</h1>
    <br>PowerShell
    <br>Sublime Text
    <br>Visual Studio
@@ -130,6 +129,7 @@
    <br>Vim
    <br>VS Code
    <br>NumPy
+</p>
 
 <p>
   <h1>Operating Systems</h1>
