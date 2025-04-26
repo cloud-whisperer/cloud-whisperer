@@ -121,7 +121,7 @@
 </p>
 
 <p><h1>IDE stuff</h1>
-   <br>PowerShell
+   PowerShell
    <br>Sublime Text
    <br>Visual Studio
    <br>Notepad++
