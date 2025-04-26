@@ -122,14 +122,14 @@
 
 <p><h1>IDE stuff</h1></p>
 <p>
-   PowerShell
-   Sublime Text
-   Visual Studio
-   Notepad++
-   Git
-   Vim
-   VS Code
-   NumPy
+   <br>PowerShell
+   <br>Sublime Text
+   <br>Visual Studio
+   <br>Notepad++
+   <br>Git
+   <br>Vim
+   <br>VS Code
+   <br>NumPy
 </p>
 
 <p>
