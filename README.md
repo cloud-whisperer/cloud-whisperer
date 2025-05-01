@@ -150,12 +150,8 @@
 <p>
   <h1>Securite Platforms</h1>
   <p>
-  <!--<img src="https://github.com/user-attachments/assets/98a5ddd2-faac-4c7a-9cbb-9582bf76efc4">-->
-    <img src="https://github.com/user-attachments/assets/74133b1f-3a1d-4b74-9b99-024445aa4f8c">
-
-   <img src="https://github.com/user-attachments/assets/b9281cb1-5f7d-4989-a31c-41d6ab41ab29">
-    <!--<img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />-->
-    <!--<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>-->
+  BugCrowd
+  HackerOne
   </p>
 </p>
 
