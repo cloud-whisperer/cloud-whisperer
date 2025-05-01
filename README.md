@@ -148,7 +148,7 @@
 </p>
 
 <p>
-  <h1>Securite Platforms</h1>
+  <h1>Securite Platforms 💀 </h1>
   <p>
   BugCrowd
   <br>HackerOne
