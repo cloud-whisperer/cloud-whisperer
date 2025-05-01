@@ -151,7 +151,7 @@
   <h1>Securite Platforms</h1>
   <p>
   BugCrowd
-  HackerOne
+  <br>HackerOne
   </p>
 </p>
 
