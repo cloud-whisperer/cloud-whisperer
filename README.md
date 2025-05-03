@@ -162,18 +162,9 @@
     <br>WireShark
     <br>MetaSploit
     <br>Snort
-    
-
-   
-
-
   </p>
 </p>
 
-<p>
-   <h1>Storage</h1>
-   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/ >
-</p>
 
 <p>
   <h1>Miscellaneous</h1>
