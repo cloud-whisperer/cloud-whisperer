@@ -1,10 +1,13 @@
-![Welcome Banner](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Terraform%20%7C%20Security-blue?style=for-the-badge)
+![Welcome Banner](https://Header_lc.jpg)
 
 
 <!HTML>
 <body>
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
 
+<p align="center">
+  <img src="" alt="banner" width="100%">
+</p>
 
 
  
