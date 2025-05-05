@@ -1,4 +1,4 @@
-![Welcome Banner]([https://Header_lc.jpg](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/Header_lc.jpg))
+
 
 
 <!HTML>
@@ -6,7 +6,7 @@
 <h1>## cloud-whisperer 🕷️💻🍕</h1>
 
 <p align="center">
-  <img src="" alt="banner" width="100%">
+  <img src="https://github.com/cloud-whisperer/cloud-whisperer/blob/main/Header_lc.jpg" alt="banner" width="100%">
 </p>
 
 
