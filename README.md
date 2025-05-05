@@ -1,48 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Top Banner</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
+![Welcome Banner](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Terraform%20%7C%20Security-blue?style=for-the-badge)
 
-    .top-banner {
-      background-color: #0073e6;
-      color: white;
-      padding: 15px 20px;
-      text-align: center;
-      font-size: 1.1em;
-      font-weight: bold;
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-    }
-
-    .content {
-      padding: 40px 20px;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="top-banner">
-    🚀 Welcome to My Cloud & Security Portfolio!
-  </div>
-
-  <div class="content">
-    <p>This is your main page content.</p>
-    <p>You can scroll and the banner will stay at the top.</p>
-  </div>
-
-</body>
-</html>
-
-
-<!--<img src="https://github.com/user-attachments/assets/f7cd12fa-f8c6-43a4-9075-eb77bc8ac552">-->
 
 <!HTML>
 <body>
