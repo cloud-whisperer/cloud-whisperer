@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="[https://github.com/cloud-whisperer/cloud-whisperer/blob/main/Header_lc.jpg](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/GITHUB_profile_page_lc.jpg)" alt="banner" width="100%">
+  <img src="https://github.com/cloud-whisperer/cloud-whisperer/blob/main/GITHUB_profile_page_lc.jpg" alt="banner" width="100%">
 </p>
 
 <!HTML>
