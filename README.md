@@ -1,4 +1,4 @@
-![Welcome Banner](https://Header_lc.jpg)
+![Welcome Banner]([https://Header_lc.jpg](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/Header_lc.jpg))
 
 
 <!HTML>
