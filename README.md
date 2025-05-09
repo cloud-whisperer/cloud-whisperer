@@ -134,7 +134,7 @@
 </p>
 
 <p>
-  <h1>Operating Systems</h1>
+  <h1>Operating Systems 🧰 </h1>
   <p>
      Kali Linux
      <br>Linux Mint
