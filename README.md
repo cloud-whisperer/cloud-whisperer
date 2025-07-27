@@ -8,10 +8,10 @@ Welcome to my digital portfolio. I focus on **cloud infrastructure**, **security
 
 ## 🧭 Navigation  
 [About](#about) 
-[Projects](#projects) 
-[Certifications](#certifications) 
-[Talks & Writing](#talks--writing) 
-[Contact](#contact)
+<br>[Projects](#projects) 
+<br>[Certifications](#certifications) 
+<br>[Talks & Writing](#talks--writing) 
+<br>[Contact](#contact)
 
 ---
 
