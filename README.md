@@ -2,7 +2,7 @@
 
 ### 🌐 Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
-Welcome to my digital portfolio. I focus on **cloud infrastructure**, **security architecture**, and building **resilient, ethical systems** that protect data and empower users.
+Welcome to my digital portfolio. I focus on **cloud infrastructure**, **security architecture**, and building **resilient, cost-optimised systems** that protect data and empower users.
 
 ---
 
