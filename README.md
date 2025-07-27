@@ -35,7 +35,7 @@ My mission is to strengthen security across platforms with **clarity, autonomy, 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Purview, SharePoint |
-| **📦 On-Prem AD to Entra ID x SharePoint Migration** | 🔁 Migrate Users & File Shares Securely from Legacy Infrastructure to Microsoft 365 Cloud Services | AWS, Python, EventBridge | EntraID, Entra Connect, Active Directory | 
+| **📦 On-Prem AD to Entra ID x SharePoint Migration** | 🔁 Migrate Users & File Shares Securely from Legacy Infrastructure to Microsoft 365 Cloud Services | EntraID, Entra Connect, Active Directory | 
 | **GUI Encryption Tool** | PowerShell-based encryption app for rotating keys and storing credentials | PowerShell, AES |
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
 
