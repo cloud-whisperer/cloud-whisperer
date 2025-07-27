@@ -21,12 +21,12 @@ Welcome to my digital portfolio. <br>
 
 I’m a security-focused engineer and consultant with experience in:
 
-- ☁️ Multi-cloud infrastructure (AWS, Azure, GCP)
+- ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
 - 🔒 Data protection & IAM
 - 🧪 DevSecOps and automation
 - 🧭 Strategic system design for sensitive environments
 
-My mission is to create **ethical tech** and strengthen security across platforms with **clarity, autonomy, and purpose**.
+My mission is to strengthen security across platforms with **clarity, autonomy, and purpose**.
 
 ---
 
