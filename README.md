@@ -2,7 +2,9 @@
 
 ### 🌐 Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
-Welcome to my digital portfolio. I focus on **cloud infrastructure**, **security architecture**, and building **resilient, cost-optimised systems** that protect data and empower users.
+Welcome to my digital portfolio. 
+I am a cloud enthusiast and security professional with a background in systems administration and a strong passion for protecting data in highly sensitive environments.
+I am currently focused on mastering multi-cloud security architecture — especially in the areas of storage services, and threat detection.
 
 ---
 
