@@ -9,11 +9,11 @@ Welcome to my digital portfolio. <br>
 ---
 
 ## 🧭 Navigation  
-[About](#about) 
-<br>[Projects](#projects) 
-<br>[Certifications](#certifications) 
-<br>[Talks & Writing](#talks--writing) 
-<br>[Contact](#contact)
+🔹[About](#about) 
+<br>🔹[Projects](#projects) 
+<br>🔹[Certifications](#certifications) 
+<br>🔹[Talks & Writing](#talks--writing) 
+<br>🔹[Contact](#contact)
 
 ---
 
