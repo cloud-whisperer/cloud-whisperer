@@ -34,7 +34,7 @@ My mission is to strengthen security across platforms with **clarity, autonomy, 
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls |
+| **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Purview, SharePoint |
 | **Secure Data Ingestion Pipeline** | Built for regulated data ingestion using S3, Kinesis, Lambda, and VPC endpoints | AWS, Python, EventBridge |
 | **GUI Encryption Tool** | PowerShell-based encryption app for rotating keys and storing credentials | PowerShell, AES |
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
