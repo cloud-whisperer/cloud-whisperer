@@ -7,7 +7,11 @@ Welcome to my digital portfolio. I focus on **cloud infrastructure**, **security
 ---
 
 ## 🧭 Navigation  
-[About](#about) • [Projects](#projects) • [Certifications](#certifications) • [Talks & Writing](#talks--writing) • [Contact](#contact)
+[About](#about) 
+[Projects](#projects) 
+[Certifications](#certifications) 
+[Talks & Writing](#talks--writing) 
+[Contact](#contact)
 
 ---
 
