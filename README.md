@@ -32,10 +32,6 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ---
 
-
-
----
-
 ## 🚀 Projects
 
 | Project | Description | Technologies |
@@ -72,7 +68,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ---
 
-## Conferences
+## 🔒  Conferences
 - Identiverse                                                 2025-06
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
 - Women in Tech Global Conference (Virtual)                   2025-05
