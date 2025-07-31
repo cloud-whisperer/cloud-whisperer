@@ -63,7 +63,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ## 🤝 Affiliations | Volunteer
 
 - Member: Women in CyberSecurity (WiCyS), Women in Security and Privacy (WISP)  
-- Volunteer: BlackHat, GHC (AnitaB.org), O'Reill
+- Volunteer: BlackHat, GHC (AnitaB.org), DefCon, The Diana Initiative
 - 🧠 O’Reilly Reviewer for infrastructure and cloud titles
 
 ---
