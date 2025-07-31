@@ -9,8 +9,8 @@ Welcome to my digital portfolio. <br>
 ---
 ### About
 
-## Technical Lead and Solutions Securite-Focused Architect
-# Cloud Securite Enthusiast | Multi-Cloud Builder | Infrstructure with Purpose
+# Technical Lead and Solutions Securite-Focused Architect
+### Cloud Securite Enthusiast | Multi-Cloud Builder | Infrstructure with Purpose
 
 # Location: West Coast                                            # Consultations: Available
 # Degree: Master's in Business Administration (2029)
