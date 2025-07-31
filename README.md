@@ -7,6 +7,19 @@ Welcome to my digital portfolio. <br>
 <br>I am currently focused on mastering multi-cloud security architecture — especially in the areas of storage services, and threat detection.
 
 ---
+### About
+
+## Technical Lead and Solutions Securite-Focused Architect
+# Cloud Securite Enthusiast | Multi-Cloud Builder | Infrstructure with Purpose
+
+# Location: West Coast                                            # Consultations: Available
+# Degree: Master's in Business Administration (2029)
+
+# At the core of my work, is a committment to building secure, meaningful architecture which protects what matters most--whether it is critical infrastructure, securing log
+# ingestion workflows, or creating efficient dynamic alert remediation processes. I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
+# insatiable curiosity and a desire to understand systems from the inside out. 
+
+
 
 ## 🧭 Navigation  
 🔹[About](#about) 
