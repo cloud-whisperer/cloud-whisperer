@@ -14,7 +14,7 @@ I’m a security-focused engineer and consultant with experience in:
 **Undergraduate Degree:** Human Resource Management<br>
 **Graduate Degree:** Master's in Business Administration (2029)<br>
 ### 
-## Technical Lead and Solutions Securite-Focused Architect
+## ☕  Technical Lead and Solutions Securite-Focused Architect
 
 
 
