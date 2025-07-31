@@ -72,7 +72,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 - Identiverse                                                 2025-06
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
 - Women in Tech Global Conference (Virtual)                   2025-05
-- Developer Week                                              2025-02
+- Developer Week                  (Virtual)                   2025-02
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2024
 - AWS re:Invent                                               2024
 - Cloud Native Securite Con (CNSC)                            2024
