@@ -82,7 +82,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ## 📫 Contact
 
 - ✉️ Email: `yourname@example.com`  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- 🐙 GitHub: [github.com/cloud-whisperer](https://github.com/cloud-whisperer)  
 
       - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 ---
