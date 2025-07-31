@@ -1,5 +1,14 @@
 # 👩‍💻 Tolven
 
+## 🧭 Navigation  
+🔹[About](#about) 
+<br>🔹[Projects](#projects) 
+<br>🔹[Certifications](#certifications) 
+<br>🔹[Talks & Writing](#talks--writing) 
+<br>🔹[Contact](#contact)
+
+--- 
+
 ## 📌 About
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
@@ -15,23 +24,12 @@ I’m a security-focused engineer and consultant with experience in:
 **Graduate Degree:** Master's in Business Administration (2029)<br>
 ### 
 ## ☕  Technical Lead and Solutions Securite-Focused Architect
-
-# At the core of my work, is a committment to building secure, meaningful architecture which protects what matters most--whether it is critical infrastructure, securing log
-# ingestion workflows, or creating efficient dynamic alert remediation processes. I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
-# insatiable curiosity and a desire to understand systems from the inside out. 
+At the core of my work, is a committment to building secure, meaningful architecture which protects what matters most--whether it is critical infrastructure, securing log
+ingestion workflows, or creating efficient dynamic alert remediation processes. I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
+insatiable curiosity and a desire to understand systems from the inside out. 
 
 ---
 
-
-
-
-
-## 🧭 Navigation  
-🔹[About](#about) 
-<br>🔹[Projects](#projects) 
-<br>🔹[Certifications](#certifications) 
-<br>🔹[Talks & Writing](#talks--writing) 
-<br>🔹[Contact](#contact)
 
 ---
 
