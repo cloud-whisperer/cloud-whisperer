@@ -82,9 +82,9 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ## 📫 Contact
 
 - ✉️ Email: `yourname@example.com`  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
 
+      - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 ---
 
 _Thank you for visiting! This portfolio is a work in progress — more updates soon!_
