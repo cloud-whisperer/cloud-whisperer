@@ -1,5 +1,7 @@
 # 👩‍💻 Tolven
 
+My mission is to strengthen security across platforms with **clarity, autonomy, and purpose**.
+---
 ## 🧭 Navigation  
 🔹[About](#about) 
 <br>🔹[Projects](#projects) 
@@ -31,18 +33,6 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ---
 
 
----
-
-## 📌 About
-
-I’m a security-focused engineer and consultant with experience in:
-
-- ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
-- 🔒 Data protection & IAM
-- 🧪 DevSecOps and automation
-- 🧭 Strategic system design for sensitive environments
-
-My mission is to strengthen security across platforms with **clarity, autonomy, and purpose**.
 
 ---
 
