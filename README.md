@@ -1,12 +1,22 @@
 # 👩‍💻 Tolven
 
+## 📌 About
+🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
+
+I’m a security-focused engineer and consultant with experience in:
+
+Location: West Coast                                            # Consultations: Available
+Degree: Master's in Business Administration (2029)
+- ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
+- 🔒 Data protection & IAM
+- 🧪 DevSecOps and automation
+- 🧭 Strategic system design for sensitive environments
 # About
 
-### 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
+### 
 ## Technical Lead and Solutions Securite-Focused Architect
 
-# Location: West Coast                                            # Consultations: Available
-# Degree: Master's in Business Administration (2029)
+
 
 Welcome to my digital portfolio. <br>
 <br>I am a cloud enthusiast and security professional with a background in systems administration and a strong passion for protecting data in highly sensitive environments.<br>
