@@ -60,15 +60,27 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 - 🧩 *“Threat Detection in Serverless Environments”* – CloudNativeSecCon 2025  
 - 📄 *“Designing Secure VPC Topologies in AWS”* – Medium  
+
+
+---
+
+## 🤝 Affiliations | Volunteer
+
+- Member: Women in CyberSecurity (WiCyS), Women in Security and Privacy (WISP)  
+- Volunteer: BlackHat, GHC (AnitaB.org), O'Reill
 - 🧠 O’Reilly Reviewer for infrastructure and cloud titles
 
 ---
 
-## 🤝 Affiliations
-
-- Member: Women in CyberSecurity (WiCyS), Women in Security and Privacy (WISP)  
-- Volunteer: BlackHat, GHC (AnitaB.org), Identiverse
-
+## Conferences
+- Identiverse                                                 2025-06
+- Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
+- Women in Tech Global Conference (Virtual)                   2025-05
+- Developer Week                                              2025-02
+- Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2024
+- AWS re:Invent                                               2024
+- Cloud Native Securite Con (CNSC)                            2024
+- AWS All Builder's Welcome re:Invent grant recipient         2023
 ---
 
 ## 📫 Contact
