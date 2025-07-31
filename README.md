@@ -4,15 +4,14 @@
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
 I’m a security-focused engineer and consultant with experience in:
-
-Location: West Coast                                            # Consultations: Available
-Degree: Master's in Business Administration (2029)
 - ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
 - 🔒 Data protection & IAM
 - 🧪 DevSecOps and automation
 - 🧭 Strategic system design for sensitive environments
-# About
 
+**Location:** West Coast                                            # Consultations: Available
+**Undergraduate Degree:** Human Resource Management
+**Graduate Degree:** Master's in Business Administration (2029)
 ### 
 ## Technical Lead and Solutions Securite-Focused Architect
 
