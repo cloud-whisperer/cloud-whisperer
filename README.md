@@ -9,9 +9,9 @@ I’m a security-focused engineer and consultant with experience in:
 - 🧪 DevSecOps and automation
 - 🧭 Strategic system design for sensitive environments
 
-**Location**West Coast                                            # Consultations: Available
-**Undergraduate Degree:** Human Resource Management
-**Graduate Degree:** Master's in Business Administration (2029)
+**Location**West Coast<br>                                            # Consultations: Available<br>
+**Undergraduate Degree:** Human Resource Management<br>
+**Graduate Degree:** Master's in Business Administration (2029)<br>
 ### 
 ## Technical Lead and Solutions Securite-Focused Architect
 
