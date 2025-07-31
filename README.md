@@ -7,7 +7,7 @@ I’m a security-focused engineer and consultant with experience in:
 - ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
 - 🔒 Data protection & IAM
 - 🧪 DevSecOps and automation
-- 🧭 Strategic system design for sensitive environments
+- 🧭 Systems administration for SaaS applications (application and database administration) operating in highly regulated industries.
 
 **Location:** West Coast                                          
 **Consultations:** Available<br>
