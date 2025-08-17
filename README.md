@@ -17,8 +17,8 @@ My mission is to strengthen security across platforms with **clarity, autonomy, 
 I’m a security-focused engineer and consultant with experience in:
 - ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
 - 🔒 Data protection & IAM
-- 🧪 DevSecOps and automation
-- 🧭 Systems administration for SaaS applications (application and database administration) operating in highly regulated industries.
+- 🧪 DevSecOps and automation (Terraform)
+- 🧭 Systems administration for SaaS applications (application and database servers) operating in highly regulated industries.
 
 ### 
 ## ☕  Technical Lead and Solutions Securite-Focused Architect
