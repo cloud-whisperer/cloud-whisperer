@@ -1,6 +1,6 @@
 # 🍕 Tolven
 
-My mission is to strengthen security across platforms with **clarity, autonomy, and purpose**.
+My mission is to strengthen security across platforms with **clarity, autonomy, and strategic purpose**.
 ---
 ## 🧭 Navigation  
 🔹[About](#about) 
