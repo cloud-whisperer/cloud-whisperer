@@ -64,9 +64,9 @@ insatiable curiosity and a desire to understand systems from the inside out.
   <br>
 - **Volunteer Work:**
 - **Hacker Summer Camp (2025)**
-  Volunteer Manager for BlackHat
-  DefCon Volunteer for WISP Community and Vendour Booth
-  The Diana Initiative - WISP volunteer
+  <br>Volunteer Manager for BlackHat
+  <br>DefCon Volunteer for WISP Community and Vendour Booth
+  <br>The Diana Initiative - WISP volunteer
 - **Grace Hopper Celebration (AnitaB.org)** - The Diana Initiative
 - 🧠 O’Reilly - On staff as a technical reviewer
 
