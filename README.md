@@ -49,8 +49,9 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ## 🗣️ Talks & Writing
 
-- 🧩 *"How AWS Protects Your Data Privacy and Security"* Blog post
-  https://coder1life.blogspot.com/2024/12/how-aws-protects-your-data-privacy-and.html
+- 🧩 *"How AWS Protects Your Data Privacy and Security"*
+- <br>Blog post
+  <br>https://coder1life.blogspot.com/2024/12/how-aws-protects-your-data-privacy-and.html
 - 📄 *“Designing Secure VPC Topologies in AWS”* – Medium  
 
 
