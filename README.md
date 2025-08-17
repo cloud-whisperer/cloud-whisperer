@@ -89,7 +89,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 - 🐙 GitHub: [github.com/cloud-whisperer](https://github.com/cloud-whisperer)  
 
-      - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+   
 ---
 
 _Thank you for visiting! This portfolio is a work in progress — more updates soon!_
