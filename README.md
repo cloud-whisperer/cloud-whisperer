@@ -59,8 +59,15 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ## 🤝 Affiliations | Volunteer
 
-- **Member:** Women in CyberSecurity (WiCyS), Women in Security and Privacy (WISP)  
-- **Volunteer:** BlackHat, GHC (AnitaB.org), DefCon, The Diana Initiative
+- **Member:** Women in CyberSecurity (WiCyS)               **2025**
+- **Member:** Women in Security and Privacy (WISP)         **2025**
+  <br>
+- **Volunteer Work:**
+- **Hacker Summer Camp (2025)**
+  Volunteer Manager for BlackHat
+  DefCon Volunteer for WISP Community and Vendour Booth
+  The Diana Initiative - WISP volunteer
+- **Grace Hopper Celebration (AnitaB.org)** - The Diana Initiative
 - 🧠 O’Reilly - On staff as a technical reviewer
 
 ---
