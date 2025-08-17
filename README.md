@@ -32,7 +32,8 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Purview, SharePoint |
+| **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Entra Connect, Azure VM, Conditional Access, Log Analytics, Microsoft Purview, SharePoint |
+| **AD Sync wiht Microsoft Entra ID** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | EntraID, PowerShell, Microsoft 365 |
 | **AD Sync wiht Microsoft Entra ID** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | EntraID, PowerShell, Microsoft 365 |
 | **📦 On-Prem AD to Entra ID x SharePoint Migration** | 🔁 Migrate Users & File Shares Securely from Legacy Infrastructure to Microsoft 365 Cloud Services | EntraID, Entra Connect, Active Directory | 
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
