@@ -67,7 +67,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
   <br>WISP Volunteer Manager for BlackHat
   <br>DefCon Volunteer for WISP Community and Vendour Booth
   <br>The Diana Initiative - WISP volunteer
-- **Grace Hopper Celebration (AnitaB.org)** - The Diana Initiative
+- **Grace Hopper Celebration (AnitaB.org) (2025)** - Review member
 - 🧠 O’Reilly - On staff as a technical reviewer
 
 ---
