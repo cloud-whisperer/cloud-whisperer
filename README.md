@@ -74,8 +74,9 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ---
 
 ## 🔒  Conferences
-- Identiverse                                                 2025-06
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
+- Identiverse                                                 2025-06
+- Cloud Security Alliance: CSA Virtual Cloud Non-Human Identity Summit 2025   2025-15/16-07
 - Women in Tech Global Conference (Virtual)                   2025-05
 - Developer Week                  (Virtual)                   2025-02
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2024
@@ -86,7 +87,6 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ## 📫 Contact
 
-- ✉️ Email: `yourname@example.com`  
 - 🐙 GitHub: [github.com/cloud-whisperer](https://github.com/cloud-whisperer)  
 
       - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
