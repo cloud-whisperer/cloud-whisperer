@@ -20,10 +20,6 @@ I’m a security-focused engineer and consultant with experience in:
 - 🧪 DevSecOps and automation
 - 🧭 Systems administration for SaaS applications (application and database administration) operating in highly regulated industries.
 
-**Location:** West Coast                                          
-**Consultations:** Available<br>
-**Undergraduate Degree:** Human Resource Management<br>
-**Graduate Degree:** Master's in Business Administration (2029)<br>
 ### 
 ## ☕  Technical Lead and Solutions Securite-Focused Architect
 At the core of my work, is a committment to building secure, meaningful architecture which protects what matters most--whether it is critical infrastructure, securing log
