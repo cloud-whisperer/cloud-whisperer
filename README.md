@@ -79,7 +79,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ---
 
 ## 🔒  Conferences
-- SANS 2025 Cloud Securite Exchange<br>                       2025
+- SANS 2025 Cloud Securite Exchange                           2025
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
 - Identiverse                                                 2025-06
 - Cloud Security Alliance: CSA Virtual Cloud Non-Human Identity Summit 2025   2025-15/16-07
