@@ -23,7 +23,7 @@ I’m a security-focused engineer and consultant with experience in:
 ### 
 ## ☕  Technical Lead and Solutions Securite-Focused Architect
 At the core of my work, is a committment to building secure, meaningful architecture which protects what matters most--whether it is critical infrastructure, securing log
-ingestion workflows, or creating efficient dynamic alert remediation processes. I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
+ingestion workflows, or creating efficient dynamic alert remediation processes. <br>I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
 insatiable curiosity and a desire to understand systems from the inside out. 
 
 ---
