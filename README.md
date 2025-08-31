@@ -52,8 +52,10 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ## 🗣️ Talks & Writing
 
+- 🧩 Blog post  *"Asking the right questions in Cloud Security"*
+  <br>[https://coder1life.blogspot.com/2024/12/how-aws-protects-your-data-privacy-and.html](https://coder1life.blogspot.com/2025/08/asking-right-questions-in-cloud-security.html)
 - 🧩 Blog post  *"How AWS Protects Your Data Privacy and Security"*
-  https://coder1life.blogspot.com/2024/12/how-aws-protects-your-data-privacy-and.html
+  <br>https://coder1life.blogspot.com/2024/12/how-aws-protects-your-data-privacy-and.html
 - 🧩 Blog post *“AWS Cloud Services: The key to keeping monolithic, legacy systems competitive”*
   https://coder1life.blogspot.com/2025/02/aws-cloud-services-key-to-keeping.html
 
