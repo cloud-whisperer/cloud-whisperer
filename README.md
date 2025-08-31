@@ -66,7 +66,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 - **Member:** Women in CyberSecurity (WiCyS)               **2025**
 - **Member:** Women in Security and Privacy (WISP)         **2025**
-- **ISC2 Candidate  :**                                    **2025**
+- **ISC2 Candidate  :** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     **2025**
   <br>
 ## **Volunteer Work:**
 - **Hacker Summer Camp (2025)**
