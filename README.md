@@ -65,7 +65,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ## 🤝 **Affiliations**
 
 - **Member:** Women in CyberSecurity (WiCyS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              **2025**
-- **Member:** Women in Security and Privacy (WISP) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       **2025**
+- **Member:** Women in Security and Privacy (WISP) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       **2024**
 - **ISC2 Candidate** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;**2025**
   <br>
 ## 🫶 **Volunteer Work:**
