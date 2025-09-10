@@ -32,6 +32,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
+| **CloudTrail Monitoring & Security Infrastructure (Terraform)** | Provision a secure AWS environment with logging, monitoring, and alerting using Terraform IaC. | CloudTrail, S3, EC2, SQS, SNS, Lambda function, IAM, Terraform, VS Code, aws cli |
 | **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Entra Connect, Azure VM, Conditional Access, Log Analytics, Microsoft Purview, SharePoint |
 | **AD Sync with Microsoft Entra ID** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | EntraID, PowerShell, Microsoft 365 |
 | **On-premise Active Directory (simulated Azure vm) to Entra ID x SharePoint Migration** | Migrated users and file shares securely from legacy infrastructure to Microsoft 365 cloud services. | EntraID, PowerShell, Microsoft 365 |
