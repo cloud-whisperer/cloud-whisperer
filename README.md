@@ -39,6 +39,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 | **Placeholder** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | EntraID, PowerShell, Microsoft 365 |
 | **📦 On-Prem AD to Entra ID x SharePoint Migration** | 🔁 Migrate Users & File Shares Securely from Legacy Infrastructure to Microsoft 365 Cloud Services | EntraID, Entra Connect, Active Directory | 
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
+| **🛠️  AWS Event-Driven Workflow** | Trigger Lambda with S3 uploads and monitor via CloudWatch logs | Lambda, S3, CloudWatch |
 
 ---
 
