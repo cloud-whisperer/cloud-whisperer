@@ -30,7 +30,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ## 🚀 Projects
 
-| Project | Description | Technologies |
+| Project | Description | ☁️ Services |
 |--------|-------------|--------------|
 | **CloudTrail Monitoring & Security Infrastructure (Terraform)** | Provision a secure AWS environment with logging, monitoring, and alerting using Terraform IaC. | CloudTrail, S3, EC2, SQS, SNS, Lambda function, IAM, Terraform, VS Code, aws cli |
 | **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Entra Connect, Azure VM, Conditional Access, Log Analytics, Microsoft Purview, SharePoint |
