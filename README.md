@@ -48,6 +48,9 @@ insatiable curiosity and a desire to understand systems from the inside out.
 
 ## 🎓 Certifications
 
+- Oracle Certified Data Platform Foundations Associate
+- Oracle Certified Cloud Infrastructure AI Foundations Associate
+- Oracle Cloud Infrastructure Foundations Associate
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner  
 - Microsoft Azure Fundamentals (AZ-900)  
