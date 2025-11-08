@@ -41,7 +41,8 @@ insatiable curiosity and a desire to understand systems from the inside out.
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
 | **🛠️  AWS Beginner’s Guide to AWS App Integration** | Trigger Lambda with S3 uploads and monitor via CloudWatch logs | Lambda, S3, CloudWatch |
 | **🛠️  AWS Beginner’s Guide to AWS Step Functions DynamoDB SNS** | A simple event-driven workflow  | AWS Step Functions, DynamoDB, SNS |
-| **🛠️  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch |
+| **🛠️  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
+| **🛠️  AWS -  Decoupled Event Processing with SQS Triggers** | Fully serverless workflow  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 
 ---
 
