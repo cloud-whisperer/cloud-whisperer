@@ -39,10 +39,11 @@ insatiable curiosity and a desire to understand systems from the inside out.
 | **Placeholder** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | EntraID, PowerShell, Microsoft 365 |
 | **📦 On-Prem AD to Entra ID x SharePoint Migration** | 🔁 Migrate Users & File Shares Securely from Legacy Infrastructure to Microsoft 365 Cloud Services | EntraID, Entra Connect, Active Directory | 
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
-| **🛠️  AWS Beginner’s Guide to AWS App Integration** | Trigger Lambda with S3 uploads and monitor via CloudWatch logs | Lambda, S3, CloudWatch |
+| **🚀  AWS Beginner’s Guide to AWS App Integration** | Trigger Lambda with S3 uploads and monitor via CloudWatch logs | Lambda, S3, CloudWatch |
 | **🛠️  AWS Beginner’s Guide to AWS Step Functions DynamoDB SNS** | A simple event-driven workflow  | AWS Step Functions, DynamoDB, SNS |
-| **🛠️  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
+| **🚀  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🛠️  AWS -  Decoupled Event Processing with SQS Triggers** | Fully serverless workflow  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
+| **🚀  AWS -  Event-Driven Order Processing** | End-to-end serverless workflow handling orders, alerts, and message queuing  | 🧠 Lambda, 💾 DynamoDB, 🔔 SNS, 📬 SQS, 📊 CloudWatch, 🔐 IAMM |
 
 ---
 
