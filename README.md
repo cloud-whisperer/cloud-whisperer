@@ -43,7 +43,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 | **🛠️  AWS Beginner’s Guide to AWS Step Functions DynamoDB SNS** | A simple event-driven workflow  | AWS Step Functions, DynamoDB, SNS |
 | **🚀  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🛠️  AWS -  Decoupled Event Processing with SQS Triggers** | Fully serverless workflow  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
-| **🚀  AWS -  Event-Driven Order Processing** | End-to-end serverless workflow handling orders, alerts, and message queuing  | 🧠 Lambda, 💾 DynamoDB, 🔔 SNS, 📬 SQS, 📊 CloudWatch, 🔐 IAMM |
+| **🚀  AWS -  Event-Driven Order Processing** | End-to-end serverless workflow handling orders, alerts, and message queuing  | 🧠 Lambda, 💾 DynamoDB, 🔔 SNS, 📬 SQS, 📊 CloudWatch, 🔐 IAM |
 
 ---
 
