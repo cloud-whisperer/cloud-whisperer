@@ -88,6 +88,7 @@ insatiable curiosity and a desire to understand systems from the inside out.
 ---
 
 ## 🔒  Conferences
+- AWS re:Invent                                               2025
 - SANS 2025 Cloud Securite Exchange                           2025
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
 - Identiverse                                                 2025-06
