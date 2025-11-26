@@ -20,18 +20,12 @@ I’m a security-focused engineer and consultant with experience in:
 - 🧪 DevSecOps and automation (Terraform)
 - 🧭 Systems administration for SaaS applications (application and database servers) operating in highly regulated industries.
 
-## 📌 Professional Summary 
+## 📌 Solutions Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) | Infrastructure ☕
 Technical lead with proven expertise in Linux systems administration, cloud infrastructure, and application administration for secure 
 environments across AWS, Azure, Oracle ecosystems. Skilled in system provisioning, backups/restores, patching, and troubleshooting for 
 complex deployments and upgrades/updates. Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
 Linux servers, database administration. Adept in secure deployments, SSO/LDAP integrations, and automation using Terraform and Ansible. 
 Recognised for strong technical aptitude, cross-functional collaboration, and success in air-gapped and compliance-driven environments. 
-
-### 
-## ☕  Technical Lead and Solutions Securite-Focused Architect
-At the core of my work, is a committment to building secure, meaningful architecture which protects what matters most--whether it is critical infrastructure, securing log
-ingestion workflows, or creating efficient dynamic alert remediation processes. <br>I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
-insatiable curiosity and a desire to understand systems from the inside out. 
 
 ---
 
