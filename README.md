@@ -79,7 +79,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 ## 🤝 **Affiliations**
 
 - **Member:** Women in CyberSecurity (WiCyS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              **2025**
-- **Member:** Women in Security and Privacy (WISP) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      **2024**
+- **Member:** Women in Security and Privacy (WISP) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     **2024**
 - **ISC2 Certified in Cybersecurity -  Member**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     **2025**
   <br>
 ## 🫶 **Volunteer Work:**
