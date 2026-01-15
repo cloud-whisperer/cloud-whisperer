@@ -47,7 +47,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 | **🚀  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🛠️  AWS -  Decoupled Event Processing with SQS Triggers** | Fully serverless workflow  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🚀  AWS -  Event-Driven Order Processing** | End-to-end serverless workflow handling orders, alerts, and message queuing  | 🧠 Lambda, 💾 DynamoDB, 🔔 SNS, 📬 SQS, 📊 CloudWatch, 🔐 IAM |
-| **🐧  BASH <br>🔐 Secure Task Logger** | Lightweight Python CLI application demonstrating secure, auditable task logging with modular design, explicit user context capture, and structured audit-style logs.  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
+| **🐧  PYTHON <br>🔐 Secure Task Logger** | Lightweight Python CLI application demonstrating secure, auditable task logging with modular design, explicit user context capture, and structured audit-style logs.  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
 
 ---
 
