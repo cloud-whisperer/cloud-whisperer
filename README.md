@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-*Strengthening security across cloud and hybrid platforms through autonomous execution, principled design, and practical DevSecOps engineering.*
+##Strengthening security across cloud and hybrid platforms through autonomous execution, principled design, and practical DevSecOps engineering.
 ---
 ## 🧭 Navigation  
 🔹[About](#about) 
