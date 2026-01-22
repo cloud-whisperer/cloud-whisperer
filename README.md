@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-## Principled design.  Practical DevSecOps engineering.
+## Practical DevSecOps engineering.
 ---
 ## 🧭 Navigation  
 🔹[About](#about) 
