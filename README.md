@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-My mission is to strengthen security across platforms with **clarity, autonomy, and strategic purpose**.
+Strengthening security across cloud and hybrid platforms through autonomous execution, principled design, and practical DevSecOps engineering.**.
 ---
 ## 🧭 Navigation  
 🔹[About](#about) 
