@@ -51,6 +51,9 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 | **🛡️ AWS Edge Security <br>🔐 Content Delivery (Terraform)** | Designed and provisioned a secure, production-grade CloudFront distribution with Lambda@Edge request inspection, AWS WAF IP blocking, and S3 origin protection, using Terraform modules and least-privilege IAM. Edge security controls. Deterministic module outputs. Auditable IaC workflows  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
 ---
 
+[**🐍  PYTHON <br>🔐 Secure Task Logger**](https://github.com/cloud-whisperer/mini-projects/tree/main/%F0%9F%9A%80%20Tiny%20Python%20Project.%20Real%20DevSecOps%20Lessons)
+
+
 ## 🎓 Certifications
 
 - ISC2 Certified in Cybersecurity
