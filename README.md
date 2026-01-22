@@ -47,11 +47,11 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 | **🚀  AWS -  Serverless Orders Pipeline** | A Serverless Orders Pipeline  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🛠️  AWS -  Decoupled Event Processing with SQS Triggers** | Fully serverless workflow  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🚀  AWS -  Event-Driven Order Processing** | End-to-end serverless workflow handling orders, alerts, and message queuing  | 🧠 Lambda, 💾 DynamoDB, 🔔 SNS, 📬 SQS, 📊 CloudWatch, 🔐 IAM |
-| **🐍  PYTHON <br>🔐 Secure Task Logger** | Lightweight Python CLI application demonstrating secure, auditable task logging with modular design, explicit user context capture, and structured audit-style logs.  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
+| **[**🐍  PYTHON <br>🔐 Secure Task Logger**](https://github.com/cloud-whisperer/mini-projects/tree/main/%F0%9F%9A%80%20Tiny%20Python%20Project.%20Real%20DevSecOps%20Lessons)** | Lightweight Python CLI application demonstrating secure, auditable task logging with modular design, explicit user context capture, and structured audit-style logs.  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
 | **🛡️ AWS Edge Security <br>🔐 Content Delivery (Terraform)** | Designed and provisioned a secure, production-grade CloudFront distribution with Lambda@Edge request inspection, AWS WAF IP blocking, and S3 origin protection, using Terraform modules and least-privilege IAM. Edge security controls. Deterministic module outputs. Auditable IaC workflows  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
 ---
 
-[**🐍  PYTHON <br>🔐 Secure Task Logger**](https://github.com/cloud-whisperer/mini-projects/tree/main/%F0%9F%9A%80%20Tiny%20Python%20Project.%20Real%20DevSecOps%20Lessons)
+
 
 
 ## 🎓 Certifications
