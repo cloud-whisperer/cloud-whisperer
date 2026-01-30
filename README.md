@@ -4,7 +4,6 @@
 ---
 ## 🧭 Navigation  
 🔹[About](#about)
-#about
 <br>🔹[Projects](#projects) 
 <br>🔹[Certifications](#certifications) 
 <br>🔹[Talks & Writing](#talks--writing) 
