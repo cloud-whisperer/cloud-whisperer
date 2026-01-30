@@ -4,8 +4,8 @@
 ---
 ## 🧭 Navigation  
 
-<span id="about"></span>About
 
+  🔹[About](#about)
 <br>🔹[Projects](#projects) 
 <br>🔹[Certifications](#certifications) 
 <br>🔹[Talks & Writing](#talks--writing) 
@@ -13,7 +13,7 @@
 
 --- 
 
-## 📌 About [About](#about)
+## 📌 <span id="about"></span>About
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
 I’m a security-focused engineer and consultant with experience in:
