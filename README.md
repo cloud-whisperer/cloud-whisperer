@@ -58,7 +58,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 
 ---
 
-## 🎓 Certifications
+## 🎓 <span id="certifications"></span>Certifications
 
 - **[**ISC2 Certified in Cybersecurity**](https://www.credly.com/badges/c1eea0ff-a2bd-4a72-8db5-987eeaf1f7fb/public_url)**
 - **[**Oracle Certified Data Platform Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB88087E26D86207335E27007512A0F59795C288720DCD1EE163D39FB625E986)**
@@ -71,7 +71,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 
 ---
 
-## 🗣️ Talks & Writing
+## 🗣️ <span id="#talks--writing"></span>Talks & Writing
 
 - 🧩 Blog post  *"Asking the right questions in Cloud Security"*
   <br>https://coder1life.blogspot.com/2025/08/asking-right-questions-in-cloud-security.html
@@ -113,7 +113,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 - AWS All Builder's Welcome re:Invent grant recipient         2023
 ---
 
-## 📫 Contact
+## 📫 <span id="contact"></span>Contact
 
 - 🐙 GitHub: [github.com/cloud-whisperer](https://github.com/cloud-whisperer)  
 
