@@ -65,7 +65,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 - **[**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/902459b7-66a9-447a-a6a4-bab5811c7c9a/public_url)**
 - **[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/a8493eba-4e58-4745-87f9-98b5b22f0f26/public_url)**
 - **[**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/andrea-ureste/credentials/d7d5f8fd085abae9)**
-- **[**Microsoft Security, Compliance, and Identity (SC-900)**](https://www.credly.com/badges/a8493eba-4e58-4745-87f9-98b5b22f0f26/public_url)**
+- **[**Microsoft Security, Compliance, and Identity (SC-900)**](https://learn.microsoft.com/en-us/users/andrea-ureste/credentials/52a8041c87de8e3d)**
 
 ---
 
