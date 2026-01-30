@@ -71,7 +71,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 
 ---
 
-## 🗣️ <span id="#talks--writing"></span>Talks & Writing
+## 🗣️ <span id="talks--writing"></span>Talks & Writing
 
 - 🧩 Blog post  *"Asking the right questions in Cloud Security"*
   <br>https://coder1life.blogspot.com/2025/08/asking-right-questions-in-cloud-security.html
