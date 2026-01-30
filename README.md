@@ -59,8 +59,8 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 ## 🎓 Certifications
 
 - **[**ISC2 Certified in Cybersecurity**](https://www.credly.com/badges/c1eea0ff-a2bd-4a72-8db5-987eeaf1f7fb/public_url)**
-- Oracle Certified Data Platform Foundations Associate
-- Oracle Certified Cloud Infrastructure AI Foundations Associate
+- **[**Oracle Certified Data Platform Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB88087E26D86207335E27007512A0F59795C288720DCD1EE163D39FB625E986)**
+- **[**Oracle Certified Cloud Infrastructure AI Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=219CA7024F9C5E7618C74FFE1D2C7F4D4EFAE4442A593F3E81C1F602664FE61B)**
 - Oracle Cloud Infrastructure Foundations Associate
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner  
