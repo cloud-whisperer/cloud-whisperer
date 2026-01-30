@@ -4,7 +4,7 @@
 ---
 ## 🧭 Navigation  
 🔹[About](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/README.md#about)
-<br>🔹[Projects](#projects) 
+<br>🔹[Projects](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/README.md#projects) 
 <br>🔹[Certifications](#certifications) 
 <br>🔹[Talks & Writing](#talks--writing) 
 <br>🔹[Contact](#contact)
