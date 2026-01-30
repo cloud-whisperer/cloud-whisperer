@@ -17,17 +17,17 @@
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
 I’m a security-focused engineer and consultant with experience in:
-- ☁️ Multi-cloud infrastructure (AWS, Azure, Oracle)
-- 🔒 Data protection & IAM
-- 🧪 DevSecOps and automation (Terraform)
-- 🧭 Systems administration for SaaS applications (application and database servers) operating in highly regulated industries.
+- Multi-cloud infrastructure (AWS, Azure, Oracle)
+- Data protection & IAM
+- DevSecOps and automation (Terraform)
+- Systems administration for SaaS applications (application and database servers) operating in highly regulated industries.
 
 --- 
 📌 Solutions Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕
 <br>
 <br>Technical lead with proven expertise in Linux systems administration, cloud infrastructure, and application administration for secure 
 environments across AWS, Azure, Oracle ecosystems. Skilled in system provisioning, backups/restores, patching, and troubleshooting for 
-complex deployments and upgrades/updates. <br>Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
+complex deployments and upgrades/updates. <br><br>Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
 Linux servers, database administration. Adept in secure deployments, SSO/LDAP integrations, and automation using Terraform and Ansible. 
 Recognised for strong technical aptitude, cross-functional collaboration, and success in air-gapped and compliance-driven environments. 
 
