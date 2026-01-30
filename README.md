@@ -3,7 +3,8 @@
 ## Practical DevSecOps engineering.
 ---
 ## 🧭 Navigation  
-🔹[About](#about) 
+🔹[About](#about)
+#about
 <br>🔹[Projects](#projects) 
 <br>🔹[Certifications](#certifications) 
 <br>🔹[Talks & Writing](#talks--writing) 
