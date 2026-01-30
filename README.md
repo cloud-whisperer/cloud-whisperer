@@ -11,7 +11,8 @@
 
 --- 
 
-## 📌 About
+## 📌 [About](#about)
+
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
 I’m a security-focused engineer and consultant with experience in:
