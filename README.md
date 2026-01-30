@@ -31,7 +31,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 
 ---
 
-## 🚀 Projects
+## 🚀 [Projects](#projects) 
 
 
 | Project | Description | ☁️ Services |
