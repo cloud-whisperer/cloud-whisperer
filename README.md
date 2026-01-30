@@ -61,8 +61,8 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 - **[**ISC2 Certified in Cybersecurity**](https://www.credly.com/badges/c1eea0ff-a2bd-4a72-8db5-987eeaf1f7fb/public_url)**
 - **[**Oracle Certified Data Platform Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB88087E26D86207335E27007512A0F59795C288720DCD1EE163D39FB625E986)**
 - **[**Oracle Certified Cloud Infrastructure AI Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=219CA7024F9C5E7618C74FFE1D2C7F4D4EFAE4442A593F3E81C1F602664FE61B)**
-- Oracle Cloud Infrastructure Foundations Associate
-- AWS Certified Solutions Architect – Associate
+- **[**Oracle Cloud Infrastructure Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=42D907C792B77E3443D0C32CEDEB96C8DC951A4ABCAF2B1B602610439E290CA1)**
+- **[**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/902459b7-66a9-447a-a6a4-bab5811c7c9a/public_url)**
 - AWS Certified Cloud Practitioner  
 - Microsoft Azure Fundamentals (AZ-900)  
 - Microsoft Security, Compliance, and Identity (SC-900)
