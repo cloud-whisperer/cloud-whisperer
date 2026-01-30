@@ -3,7 +3,7 @@
 ## Practical DevSecOps engineering.
 ---
 ## 🧭 Navigation  
-🔹[About](#about)
+🔹[About](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/README.md#about)
 <br>🔹[Projects](#projects) 
 <br>🔹[Certifications](#certifications) 
 <br>🔹[Talks & Writing](#talks--writing) 
