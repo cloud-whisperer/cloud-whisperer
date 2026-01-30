@@ -3,7 +3,9 @@
 ## Practical DevSecOps engineering.
 ---
 ## 🧭 Navigation  
-🔹[About](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/README.md#about)
+
+<span id="about"></span>About
+
 <br>🔹[Projects](#projects) 
 <br>🔹[Projects](https://github.com/cloud-whisperer/cloud-whisperer/blob/main/README.md#projects) 
 <br>🔹[Certifications](#certifications) 
@@ -12,7 +14,7 @@
 
 --- 
 
-## 📌 About
+## 📌 About [About](#about)
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
 I’m a security-focused engineer and consultant with experience in:
