@@ -55,7 +55,21 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 **[**🐍  PYTHON <br>🔐 Secure Task Logger**](https://github.com/cloud-whisperer/mini-projects/tree/main/%F0%9F%9A%80%20Tiny%20Python%20Project.%20Real%20DevSecOps%20Lessons)** | Lightweight Python CLI application demonstrating secure, auditable task logging with modular design, explicit user context capture, and structured audit-style logs.  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
 | **Terraform projekt: <br>🛡️ AWS Edge Security <br>🔐 Content Delivery** | Designed and provisioned a secure, production-grade CloudFront distribution with Lambda@Edge request inspection, AWS WAF IP blocking, and S3 origin protection, using Terraform modules and least-privilege IAM. Edge security controls. Deterministic module outputs. Auditable IaC workflows  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
 | **[**Hybrid Identity and File <br>Migration Projekt:**](https://github.com/cloud-whisperer/mini-projects/blob/main/AD-Entra-Connect-Sync-Entra-ID/README.md)**<br>🛡️ **Microsoft Zero Trust <br>🔐 IAM <br> Data Migration** |  <br>🛠️ **Built a secure hybrid identity setup by syncing (simulated) on-premise Active Directory to Microsoft Entra ID.** <br>- **Applied Conditional Access policies.** <br>- **Migrated file shares to SharePoint Online.** <br>- **Verified secure cloud sign-ins.** <br>- **Zero Trust behaviour using Entra logs and Purview auditing.**  | - 🖥️ **Windows Server** <br>- **Active Directory** <br>- **Microsoft EntraID** <br>- **Microsoft Entra Connect** <br>- **SharePoint Online** <br>- **Conditional Access** <br>-**Microsoft Purview** <br>-**Log Analytics** <br>-**IAM** <br>-**Zero Trust Architekture** |
-| **[**🌐 Network Health Check** <br>**Beginner Bash Network Script**](https://github.com/your-repo-link-here)**<br> | 🛠️ **Built a Bash-based network diagnostic tool by:**<br> - **Checking internet connectivity using ICMP.** <br>- **Validating DNS resolution.** <br>- **Enumerating listening ports and identifying common risky ports.** <br>- **Using modular functions, menus, and visual feedback (spinners & banners).** | - **Bash (Shell Scripting)** <br>- **Linux Networking Tools** <br>&nbsp;&nbsp;`ping`, `ss`, `getent` <br>- **Process handling** <br>&nbsp;&nbsp;Background jobs & PIDs <br>- **Terminal UX** <br>&nbsp;&nbsp;ANSI colors, ASCII banners |
+| **[**👉 Linux Network Health Check — Bash Fundamentals** <br>**Network Visibility Tool**](https://github.com/your-repo-link-here)**<br> | 🛠️ **Developed a Bash-based network diagnostics utility that:**<br>
+&nbsp;&nbsp;🌐 **Performs ICMP-based internet connectivity checks**<br>
+&nbsp;&nbsp;🧭 **Validates DNS resolution using system name services**<br>
+&nbsp;&nbsp;🔍 **Enumerates active listening ports and flags commonly exposed or high-risk ports**<br>
+&nbsp;&nbsp;🎛️ **Implements modular functions, interactive menus, and enhanced terminal feedback** (spinners & ASCII banners) | 
+| --- | 
+| 🔧 **Technologies & Concepts Applied**<br>
+&nbsp;&nbsp;🐚 **Bash (Shell Scripting)**<br>
+&nbsp;&nbsp;📡 **Linux Networking Utilities**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`ping`, `ss`, `getent`<br>
+&nbsp;&nbsp;⚙️ **Process Management**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Background execution & PID handling<br>
+&nbsp;&nbsp;🎨 **Terminal User Experience (UX)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ANSI color codes, structured output, ASCII banners |
+
 
 
 ---
