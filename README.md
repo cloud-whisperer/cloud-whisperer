@@ -91,7 +91,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 - **Member:** Women in Security and Privacy (WISP)           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        **2024**
 - **ISC2 Certified in Cybersecurity -  Member**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     **2025**
   <br>
-## 🫶 **Volunteer Work:**
+## 🫶 **Volunteer Work**
 - **Hacker Summer Camp (2025)**
   <br>WISP Volunteer Manager for BlackHat
   <br>DefCon Volunteer for WISP Community and Vendour Booth
