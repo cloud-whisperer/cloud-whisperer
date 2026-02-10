@@ -16,11 +16,11 @@
 ## 📌 <span id="about"></span>About
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
 
-I’m a security-focused engineer and consultant with experience in:
+I am a security-focused engineer and consultant with experience in:
 - Multi-cloud infrastructure (AWS, Azure, Oracle)
 - Data protection & IAM
 - DevSecOps and automation (Terraform)
-- Systems administration for SaaS applications (application and database servers) operating in highly regulated industries.
+- Systems administration for SaaS applications (application and database servers) operating in highly regulated industries
 
 --- 
 📌 Solutions Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕
