@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-## Practical DevSecOps engineering.
+## Practical DevSecOps engineering
 ---
 ## 🧭 Navigation  
 
