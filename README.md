@@ -49,7 +49,6 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
 | **🚀  AWS Beginner’s Guide to AWS App Integration** | Trigger Lambda with S3 uploads and monitor via CloudWatch logs | Lambda, S3, CloudWatch |
 | **🛠️  AWS Beginner’s Guide to AWS Step Functions DynamoDB SNS** | A simple event-driven workflow  | AWS Step Functions, DynamoDB, SNS |
-| **[**🚀  AWS -  Serverless Orders Pipeline**](https://github.com/cloud-whisperer/mini-projects/tree/main/Serverless%20Orders%20Pipeline) | A Serverless Orders Pipeline  | - 🧠Lambda <br>- DynamoDB <br>- SNS <br>- SQS <br>- CloudWatch <br>- IAM |
 | **🛠️  AWS -  Decoupled Event Processing with SQS Triggers** | Fully serverless workflow  | Lambda, DynamoDB, SNS, SQS, CloudWatch, IAM |
 | **🚀  AWS Event-Driven** <br>Order Processing Workflow |  🏗️ End-to-end serverless workflow to handle: <br>- Orders <br>- Alerts <br>- Message queuing  |  - 🧠 Lambda <br>- DynamoDB <br>- SNS <br>- SQS <br>- CloudWatch <br>- IAM |
 **[**🐍  PYTHON <br>🔐 Secure Task Logger**](https://github.com/cloud-whisperer/mini-projects/tree/main/%F0%9F%9A%80%20Tiny%20Python%20Project.%20Real%20DevSecOps%20Lessons)** | Lightweight Python CLI application demonstrating secure, auditable task logging with modular design, explicit user context capture, and structured audit-style logs.  | Python, CLI, Logging, Modular Design, User Context, Audit Trail|
