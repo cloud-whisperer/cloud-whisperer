@@ -91,6 +91,7 @@ Recognised for strong technical aptitude, cross-functional collaboration, and su
 - **ISC2 Certified in Cybersecurity -  Member**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     **2025**
   <br>
 ## 🫶 **Volunteer Work**
+- <br>WomenTech Social Media Volunteer (2026)
 - **Hacker Summer Camp (2025)**
   <br>WISP Volunteer Manager for BlackHat
   <br>DefCon Volunteer for WISP Community and Vendour Booth
