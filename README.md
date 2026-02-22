@@ -25,6 +25,7 @@ I am a security-focused engineer and consultant with experience in:
 --- 
 📌 Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕
 <br>
+<br>Purpose: 🏛️ Architect control frameworks that operationalise regulatory mandates and produce verifiable audit evidence by design.
 <br>Technical lead with proven expertise in Linux systems administration, cloud infrastructure, and application administration for secure 
 environments across AWS, Azure, Oracle ecosystems. Skilled in system provisioning, backups/restores, patching, and troubleshooting for 
 complex deployments and upgrades/updates. <br><br>Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
