@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-## Enterprise Resilience Engineer | DevSecOps style
+## 🏛️ Enterprise Security Architecture & Resilience Engineering
 ---
 ## 🧭 Navigation  
 
