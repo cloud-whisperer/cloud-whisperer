@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-## Organisational Resilience Engineering | DevSecOps style
+## Organisational Resilience Engineer | DevSecOps style
 ---
 ## 🧭 Navigation  
 
