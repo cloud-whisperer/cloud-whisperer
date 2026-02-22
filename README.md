@@ -27,7 +27,18 @@ I am a security-focused engineer and consultant with experience in:
 📌 Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
 <br>Technical lead with proven expertise in Linux systems administration, cloud infrastructure, and application administration for secure 
 environments across AWS, Azure, Oracle ecosystems. Skilled in system provisioning, backups/restores, patching, and troubleshooting for 
-complex deployments and upgrades/updates. <br><br>Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
+complex deployments and upgrades/updates. <br>
+| 🧩 Domain                             | 🔧 Experience                                                                                                     | 🏛️ Enterprise Relevance                                                                |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 🛡️ System Hardening                  | Hands-on professional & home-lab experience applying STIG-aligned hardening across Ubuntu and Rocky Linux servers | Strengthened secure baselines in regulated and high-assurance environments              |
+| 🗄️ Database Administration           | Managed and secured database services supporting application workloads                                            | Preserved data integrity and operational reliability in compliance-driven systems       |
+| 🔑 Identity Integration               | Implemented SSO and LDAP integrations for centralized authentication                                              | Reinforced access governance and enterprise identity controls                           |
+| ⚙️ Secure Automation                  | Automated infrastructure provisioning and configuration using Terraform and Ansible                               | Reduced configuration drift and embedded security into deployment workflows             |
+| ⚖️ Compliance & Air-Gapped Operations | Operated within air-gapped and regulatory-sensitive environments                                                  | Maintained audit readiness and control enforcement under strict compliance requirements |
+| 🤝 Cross-Functional Execution         | Collaborated with engineering and compliance stakeholders                                                         | Aligned technical execution with enterprise security objectives                         |
+
+
+<br>Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
 Linux servers, database administration. Adept in secure deployments, SSO/LDAP integrations, and automation using Terraform and Ansible. 
 Recognised for strong technical aptitude, cross-functional collaboration, and success in air-gapped and compliance-driven environments. 
 
