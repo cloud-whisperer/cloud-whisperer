@@ -15,7 +15,6 @@
 
 ## 📌 <span id="about"></span>About
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner
-
 <br>Purpose: 🏛️ Architect control frameworks that operationalise regulatory mandates and produce verifiable audit evidence by design.
 
 I am a security-focused engineer and consultant with experience in:
