@@ -23,7 +23,7 @@ I am a security-focused engineer and consultant with experience in:
 - Systems administration for SaaS applications (application and database servers) operating in highly regulated industries
 
 --- 
-📌 Solutions Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕
+📌 Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕
 <br>
 <br>Technical lead with proven expertise in Linux systems administration, cloud infrastructure, and application administration for secure 
 environments across AWS, Azure, Oracle ecosystems. Skilled in system provisioning, backups/restores, patching, and troubleshooting for 
