@@ -20,7 +20,7 @@ I am a security-focused engineer and consultant with experience in:
 - Multi-cloud infrastructure (AWS, Azure, Oracle)
 - Data protection & IAM
 - DevSecOps and automation (Terraform)
-- Systems administration for SaaS applications (application and database servers) operating in highly regulated industries
+- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.
 
 --- 
 📌 Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕
