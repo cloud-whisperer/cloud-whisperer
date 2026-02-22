@@ -15,7 +15,7 @@
 
 ## 📌 <span id="about"></span>About
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner<br>
-<br>Purpose: 🏛️ Architect control frameworks that operationalise regulatory mandates and produce verifiable audit evidence by design.
+<br>Purpose: 🏛️ Architect control frameworks which operationalise regulatory mandates and produce verifiable audit evidence by design.
 
 I am a security-focused engineer and consultant with experience in:
 - Multi-cloud infrastructure (AWS, Azure, Oracle)
