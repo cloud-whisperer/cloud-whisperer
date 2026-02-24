@@ -24,14 +24,14 @@ I am a security-focused engineer and consultant with experience in:
 - Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
 - Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
    servers.
-<br>- Oracle, and MySQL database administration.
-<br>- Familiar with secure deployments, using multi-layered authentication   
+- Oracle, and MySQL database administration.
+- Familiar with secure deployments, using multi-layered authentication   
    protocols.
-<br>- Systems administration, including SSO/LDAP/Shibboleth integrity 
+- Systems administration, including SSO/LDAP/Shibboleth integrity 
    post-checks.
-<br>- Network automation of cloud platform resources using Terraform and 
+- Network automation of cloud platform resources using Terraform and 
   Ansible.
-<br>- Recognised for effective cross-functional collaboration, and proficiency in 
+- Recognised for effective cross-functional collaboration, and proficiency in 
   air-gapped and compliance-driven environments.
 
 --- 
