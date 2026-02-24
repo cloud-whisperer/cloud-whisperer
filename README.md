@@ -37,9 +37,18 @@ environments across AWS, Azure, Oracle ecosystems. <br>
 | 🤝 Cross-Functional Execution         | Collaborated with engineering and compliance stakeholders                                                         | Aligned technical execution with enterprise security objectives                         |
 
 
-<br>Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
-Linux servers, database administration. Adept in secure deployments, SSO/LDAP integrations, and automation using Terraform and Ansible. 
-Recognised for strong technical aptitude, cross-functional collaboration, and success in air-gapped and compliance-driven environments. 
+## <br>Experience:<br>
+- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
+   servers.
+<br>- Oracle, and MySQL database administration.
+<br>- Familiar with secure deployments, using multi-layered authentication   
+   protocols.
+<br>- Systems administration, including SSO/LDAP/Shibboleth integrity 
+   post-checks.
+<br>- Network automation of cloud platform resources using Terraform and 
+  Ansible.
+<br>- Recognised for effective cross-functional collaboration, and proficiency in 
+  air-gapped and compliance-driven environments.
 
 ---
 
