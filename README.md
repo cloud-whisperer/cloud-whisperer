@@ -21,7 +21,18 @@ I am a security-focused engineer and consultant with experience in:
 - Multi-cloud infrastructure (AWS, Azure, Oracle)
 - Data protection & IAM
 - DevSecOps and automation (Terraform)
-- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.
+- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
+- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
+   servers.
+<br>- Oracle, and MySQL database administration.
+<br>- Familiar with secure deployments, using multi-layered authentication   
+   protocols.
+<br>- Systems administration, including SSO/LDAP/Shibboleth integrity 
+   post-checks.
+<br>- Network automation of cloud platform resources using Terraform and 
+  Ansible.
+<br>- Recognised for effective cross-functional collaboration, and proficiency in 
+  air-gapped and compliance-driven environments.
 
 --- 
 📌 Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
@@ -37,18 +48,7 @@ environments across AWS, Azure, Oracle ecosystems. <br>
 | 🤝 Cross-Functional Execution         | Collaborated with engineering and compliance stakeholders                                                         | Aligned technical execution with enterprise security objectives                         |
 
 
-## <br>Experience:<br>
-- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
-   servers.
-<br>- Oracle, and MySQL database administration.
-<br>- Familiar with secure deployments, using multi-layered authentication   
-   protocols.
-<br>- Systems administration, including SSO/LDAP/Shibboleth integrity 
-   post-checks.
-<br>- Network automation of cloud platform resources using Terraform and 
-  Ansible.
-<br>- Recognised for effective cross-functional collaboration, and proficiency in 
-  air-gapped and compliance-driven environments.
+
 
 ---
 
