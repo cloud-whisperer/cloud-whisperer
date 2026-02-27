@@ -25,8 +25,7 @@ I am a security-focused engineer and consultant with experience in:
 - Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
    servers.
 - Oracle, AWS RDS, and MySQL database administration.
-- Familiar with secure deployments, using multi-layered authentication   
-   protocols.
+- Experience with secure deployments using multi-layered authentication for high-security environments.
 - Systems administration, including SSO/LDAP/Shibboleth integrity 
    post-checks.
 - Network automation of cloud platform resources using Terraform and 
