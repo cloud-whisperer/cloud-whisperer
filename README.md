@@ -110,11 +110,11 @@ environments across AWS, Azure, Oracle ecosystems. <br>
   <br>
 ## 🫶 **Volunteer Work**<br>
 - WomenTech Social Media Volunteer (2026)
-- **Hacker Summer Camp (2025)**
-- <br>WISP Volunteer Manager for BlackHat
-- <br>DefCon Volunteer for WISP Community and Vendour Booth
-- <br>The Diana Initiative - WISP volunteer
-- **Grace Hopper Celebration (AnitaB.org) (2025)** - Review member
+- Hacker Summer Camp (2025)
+- WISP Volunteer Manager for BlackHat
+- DefCon Volunteer for WISP Community and Vendour Booth
+- The Diana Initiative - WISP volunteer
+- Grace Hopper Celebration (AnitaB.org) (2025) - Review member
 - 🧠 O’Reilly - On staff as a technical reviewer
 
 ---
