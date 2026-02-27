@@ -24,7 +24,7 @@ I am a security-focused engineer and consultant with experience in:
 - Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
 - Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
    servers.
-- Oracle, and MySQL database administration.
+- Oracle, AWS RDS, and MySQL database administration.
 - Familiar with secure deployments, using multi-layered authentication   
    protocols.
 - Systems administration, including SSO/LDAP/Shibboleth integrity 
