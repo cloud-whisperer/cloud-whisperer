@@ -1,6 +1,6 @@
 # 💀🍕 Tolven
 
-## 🏛️ Enterprise Security Architect & Resilience Engineer
+## 🏛️ Enterprise Security Architect & Cyber Resilience Strategist
 ---
 ## 🧭 Navigation  
 
