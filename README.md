@@ -18,7 +18,7 @@
 <br>Purpose: Architect control frameworks which operationalise regulatory mandates and produce verifiable audit evidence by design.
 
 I am a security-focused solutions architekt and consultant with experience in:
-- Multi-cloud infrastructure (AWS, Azure, Oracle)
+- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 - Data protection & IAM
 - DevSecOps and automation (Terraform)
 - Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
