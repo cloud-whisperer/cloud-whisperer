@@ -26,8 +26,7 @@
    servers.
 - Oracle, AWS RDS, and MySQL database administration.
 - Experience with secure deployments using multi-layered authentication for high-security environments.
-- Systems administration, including SSO/LDAP/Shibboleth integrity 
-   post-checks.
+- Systems administration, including SSO/LDAP/Shibboleth integrity post-checks.
 - Network automation of cloud platform resources using Terraform and 
   Ansible.
 - Recognised for effective cross-functional collaboration, and proficiency in 
@@ -37,7 +36,7 @@
 
 | 🧩 Domain                             | 🔧 Experience                                                                                                     | 🏛️ Enterprise Relevance                                                                |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 🛡️ System Lockdown                  | Hands-on professional & home-lab experience applying STIG-aligned hardening across Ubuntu and Rocky Linux servers | Strengthened secure baselines in regulated and high-assurance environments              |
+| 🛡️ System Lockdown                  | Hands-on professional & home-lab experience applying STIG-aligned hardening across Ubuntu, RHEL, and Rocky Linux servers | Strengthened secure baselines in regulated and high-assurance environments              |
 | 🗄️ Database Administration           | Managed and secured database services supporting application workloads                                            | Preserved data integrity and operational reliability in compliance-driven systems       |
 | 🔑 Identity Integration               | Implemented SSO and LDAP integrations for centralized authentication                                              | Reinforced access governance and enterprise identity controls                           |
 | ⚙️ Secure Automation                  | Automated infrastructure provisioning and configuration using Terraform and Ansible                               | Reduced configuration drift and embedded security into deployment workflows             |
