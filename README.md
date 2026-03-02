@@ -18,7 +18,6 @@
 <br>Purpose: Architect control frameworks which operationalise regulatory mandates and produce verifiable audit evidence by design.
 
 📌 Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
-I am a security-focused solutions architekt and consultant with experience in:
 - Multi-cloud infrastructure ( AWS, Azure, Oracle )
 - Data protection & IAM
 - DevSecOps and automation (Terraform)
