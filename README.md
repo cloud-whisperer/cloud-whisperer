@@ -17,7 +17,7 @@
 🌐 Multi-Cloud | 🔐 Security | 🛠️ DevSecOps | 🧠 Lifelong Learner<br>
 <br>Purpose: Architect control frameworks which operationalise regulatory mandates and produce verifiable audit evidence by design.
 
-📌 Securite-Focused Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
+📌 Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
 I am a security-focused solutions architekt and consultant with experience in:
 - Multi-cloud infrastructure ( AWS, Azure, Oracle )
 - Data protection & IAM
