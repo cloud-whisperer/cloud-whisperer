@@ -1,7 +1,8 @@
 # 💀🍕 Tolven
 
 ## 🏛️ Enterprise Security Architect & Cyber Resilience Strategist<br>
-### Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
+
+Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
 ---
 ## 🧭 Navigation  
 
