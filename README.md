@@ -18,21 +18,19 @@
 <h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> <br>
 🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
 
-
-
 <br>
-- Multi-cloud infrastructure ( AWS, Azure, Oracle )
-- Data protection & IAM
-- DevSecOps and automation (Terraform)
-- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
-- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
+<br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
+<br>- Data protection & IAM
+<br>- DevSecOps and automation (Terraform)
+<br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
+<br>- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
    servers.
-- Oracle, AWS RDS, and MySQL database administration.
-- Experience with secure deployments using multi-layered authentication for high-security environments.
-- Systems administration, including SSO/LDAP/Shibboleth integrity post-checks.
-- Network automation of cloud platform resources using Terraform and 
+<br>- Oracle, AWS RDS, and MySQL database administration.
+<br>- Experience with secure deployments using multi-layered authentication for high-security environments.
+<br>- Systems administration, including SSO/LDAP/Shibboleth integrity post-checks.
+<br>- Network automation of cloud platform resources using Terraform and 
   Ansible.
-- Recognised for effective cross-functional collaboration, and proficiency in 
+<br>- Recognised for effective cross-functional collaboration, and proficiency in 
   air-gapped and compliance-driven environments.
 
 --- 
