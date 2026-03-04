@@ -2,10 +2,6 @@
 
 ## 🏛️ Enterprise Security Architect & Cyber Resilience Strategist<br>
 
-<h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
-
----
-
 ## 🧭 Navigation  
 
 
@@ -21,6 +17,8 @@
  
 <br>🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
 <br>Purpose: Establish control ecosystems that transform regulatory mandates into enforceable operational controls, with provable compliance and audit integrity built in.
+<br>
+<h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
 
 <br>
 - Multi-cloud infrastructure ( AWS, Azure, Oracle )
