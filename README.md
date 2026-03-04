@@ -22,7 +22,7 @@
 <br>- Data protection & IAM
 <br>- DevSecOps and automation (Terraform)
 <br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
-<br>- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
+<br>- Home-lab projekts with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL 
    servers.
 <br>- Oracle, AWS RDS, and MySQL database administration.
 <br>- Experience with secure deployments using multi-layered authentication for high-security environments.
