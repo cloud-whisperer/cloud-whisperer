@@ -14,7 +14,7 @@
 
 --- 
 
-## 📌 <span id="about"></span>About
+## 📌 About
 <h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> <br>
 🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
 
