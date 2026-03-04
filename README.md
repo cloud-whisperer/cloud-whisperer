@@ -15,7 +15,7 @@
 ## 📌 <span id="about"></span>About
  
 <br>🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
-<br><b>Purpose:</b> Establish control ecosystems that transform regulatory mandates into enforceable operational controls, with provable compliance and audit integrity built in.
+<br><b>Purpose:</b> Architect secure computer networks which transform regulatory mandates into enforceable operational controls, with provable compliance and audit integrity built in.
 <br>
 <h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
 
