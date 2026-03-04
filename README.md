@@ -21,7 +21,7 @@
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
 <br>- DevSecOps and automation (Terraform)
-<br>- Sustained availability and control of SaaS application and database &nbsp;&nbsp;environments within regulated industries, ensuring alignment with &nnbsp;&nbsp;enterprise security architecture principles.<br>
+<br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
 <br>- Home-lab projekts with STIG-aligned lockdown of Ubuntu and Rocky Linux 
    servers.
 <br>- Oracle, AWS RDS, and MySQL database administration.
