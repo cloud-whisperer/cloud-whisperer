@@ -13,8 +13,9 @@
 
 --- 
 
+Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
 ## 📌 <span id="about"></span>About
-Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ 
+ 
 <br>🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
 <br>Purpose: Establish control ecosystems that transform regulatory mandates into enforceable operational controls, with provable compliance and audit integrity built in.
 
