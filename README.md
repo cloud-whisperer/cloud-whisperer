@@ -1,8 +1,7 @@
 # 💀🍕 Tolven
 
 ## 🏛️ Enterprise Security Architect & Cyber Resilience Strategist<br>
-
-<br><b>Purpose:</b> Architect secure computer networks which transform regulatory mandates into enforceable operational controls, with provable compliance and audit integrity built in.
+<b>Purpose:</b> Architect secure computer networks which transform regulatory mandates into enforceable operational controls, with provable compliance and audit integrity built in.
 <br>
 
 ## 🧭 Navigation  
