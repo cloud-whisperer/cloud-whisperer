@@ -15,8 +15,7 @@
 --- 
 
 ## 📌 <span id="about"></span>About
- 
-<br>🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
+🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
 
 <h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
 
