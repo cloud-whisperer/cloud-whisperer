@@ -4,7 +4,6 @@
 
 ## 🧭 Navigation  
 
-
   🔹[About](#about)
 <br>🔹[Projects](#projects) 
 <br>🔹[Certifications](#certifications) 
