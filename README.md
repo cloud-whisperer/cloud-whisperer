@@ -2,7 +2,7 @@
 
 ## 🏛️ Enterprise Security Architect & Cyber Resilience Strategist<br>
 
-Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕ <br>
+<h3>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h3> <br>
 ---
 ## 🧭 Navigation  
 
