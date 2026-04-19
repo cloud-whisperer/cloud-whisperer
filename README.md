@@ -36,7 +36,7 @@
 
 | 🧩 Domain                             | 🔧 Experience                                                                                                     | 🏛️ Enterprise Relevance                                                                |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 🛡️ System Lockdown                  | Hands-on professional & home-lab experience applying STIG-aligned hardening across Ubuntu, RHEL, and Rocky Linux servers | Strengthened secure baselines in regulated and highly secure environments              |
+| 🛡️ System Lockdown                  | Hands-on professional & home-lab experience applying STIG-aligned hardening across Ubuntu, RHEL, and Rocky Linux servers | Strengthened secure baselines in highly regulated and multi-layered secure environments              |
 | 🗄️ Database Administration           | Managed and secured database services supporting application workloads                                            | Preserved data integrity and operational reliability in compliance-driven systems       |
 | 🔑 Identity Integration               | Implemented SSO, LDAP, and Shibboleth integrations for centralized authentication                                              | Reinforced access governance and enterprise identity controls                           |
 | ⚙️ Secure Automation                  | Automated infrastructure provisioning and configuration using Terraform and Ansible                               | Reduced configuration drift and embedded security into deployment workflows             |
