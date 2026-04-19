@@ -53,7 +53,7 @@
 
 | Project | Description | ☁️ Services |
 |--------|-------------|--------------|
-| **🛡️ Placeholder** | 🛠️  Text goes here.  | - Microsoft Entra ID <br>(Azure AD) <br>- Users <br>- Groups <br>- Azure RBAC <br>- Built-in Reader Role <br>- Access Control (IAM) |
+| **🛡️ Placeholder** | 🛠️  Text goes here.  | - Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder |
 | **[**🛡️ Manage Access Securely** <br>**Azure Active Directory Groups and Roles**]([https://github.com/cloud-whisperer/mini-projects/tree/main/azure-active-directory](https://github.com/cloud-whisperer/cloud-architecture-projects/tree/main/Network%20Health%20Check))**<br> | 🛠️  **Designed and validated role-based access control (RBAC) by:**<br> - Creation of a test user. <br>- Assigned group-based permissionsl <br>- Verified least-privilege access through controlled login testing. | - Microsoft Entra ID <br>&nbsp;&nbsp;(Azure AD) <br>- Users <br>- Groups <br>- Azure RBAC <br>- Built-in Reader Role <br>- Access Control (IAM) |
 | **CloudTrail Monitoring & Security Infrastructure (Terraform)** | Provision a secure AWS environment with logging, monitoring, and alerting using Terraform IaC. | CloudTrail, S3, EC2, SQS, SNS, Lambda function, IAM, Terraform, VS Code, aws cli |
 | **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | EntraID, Entra Connect, Azure VM, Conditional Access, Log Analytics, Microsoft Purview, SharePoint |
