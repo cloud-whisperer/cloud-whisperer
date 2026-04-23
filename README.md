@@ -110,7 +110,7 @@
 ## 🫶 **Volunteer Work**<br>
 - WomenTech Social Media Volunteer (2026)
 - Hacker Summer Camp (2025)
-- WISP Volunteer Manager for BlackHat
+- WISP Volunteer Manager for BlackHat 2025
 - DefCon Volunteer for WISP Community and Vendour Booth
 - The Diana Initiative - WISP volunteer
 - Grace Hopper Celebration (AnitaB.org) (2025) - Review member
