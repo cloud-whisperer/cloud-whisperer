@@ -1,7 +1,6 @@
 # Tolven  ☕🍕🐳🐙💻
 
 ## Enterprise Security Architect <br>
-Cyber Resilience Strategist  <br>
 <b>Purpose:</b> Engineered secure network architectures which embedded DevSecOps principles into infrastructure and deployment pipelines, enabling continuous security validation, threat mitigation, and operational resilience.
 <br>
 
@@ -17,7 +16,7 @@ Cyber Resilience Strategist  <br>
 
 ## 📌 About
 <h4>Securite-Focused Solutions Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
-🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
+🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | Cyber Resilience Strategist<br>
 
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
