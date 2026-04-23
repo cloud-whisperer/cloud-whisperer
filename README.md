@@ -1,6 +1,6 @@
-# ☕🍕🐳🐙💻Tolven
+# Tolven  ☕🍕🐳🐙💻
 
-## 🏛️ Enterprise Security Architect & Cyber Resilience Strategist<br>
+## Enterprise Security Architect & Cyber Resilience Strategist  🏛️ <br>
 <b>Purpose:</b> Engineered secure network architectures which embedded DevSecOps principles into infrastructure and deployment pipelines, enabling continuous security validation, threat mitigation, and operational resilience.
 <br>
 
@@ -15,16 +15,16 @@
 --- 
 
 ## 📌 About
-<h4>Securite-Focused Solutions Architekt | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
+<h4>Securite-Focused Solutions Architect | Systems Administrator | Technical Lead (SaaS non-SLA) ☕</h4> 
 🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner<br>
 
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
 <br>- DevSecOps and automation (Terraform)
 <br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
-<br>- Home-lab projekts with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL 
+<br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL 
    servers.
-<br>- Oracle, AWS RDS, and MySQL database administration.
+<br>- Oracle, AWS, and MySQL database administration.
 <br>- Experience with secure deployments using multi-layered authentication for high-security environments.
 <br>- Systems administration, including SSO/LDAP/Shibboleth integrity post-checks.
 <br>- Network automation of cloud platform resources using Terraform and 
