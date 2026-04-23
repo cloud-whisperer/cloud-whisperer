@@ -1,6 +1,7 @@
 # Tolven  ☕🍕🐳🐙💻
 
-## Enterprise Security Architect & Cyber Resilience Strategist  🏛️ <br>
+## Enterprise Security Architect <br>
+## Cyber Resilience Strategist  <br>
 <b>Purpose:</b> Engineered secure network architectures which embedded DevSecOps principles into infrastructure and deployment pipelines, enabling continuous security validation, threat mitigation, and operational resilience.
 <br>
 
