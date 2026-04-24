@@ -4,7 +4,7 @@
 **<b>Purpose:</b>** Architected secure network solutions integrating DevSecOps principles into infrastructure and CI/CD pipelines, enabling:<br>
 <br>- Continuous security validation 
 <br>- Monitoring | Automated threat mitigation for alerts | Strategic critical monitoring  
-- Database administration ( DBA ) | Backup and recovery validation | Data resilience
+<br>- Database administration ( DBA ) | Backup and recovery validation | Data resilience
 
 ## 🧭 Navigation  
 
