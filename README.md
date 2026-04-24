@@ -20,7 +20,7 @@
 
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
-<br>- DevSecOps and network automation (Terraform)
+<br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
 <br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
 <br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL 
    servers.
