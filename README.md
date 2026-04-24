@@ -119,17 +119,17 @@
 ---
 
 ## 🔒  Conferences
-- AWS re:Invent                                               2025
-- SANS 2025 Cloud Securite Exchange                           2025
-- Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
+- AWS re:Invent                                               2025-12
+- SANS 2025 Cloud Securite Exchange                           2025-05
+- Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025-08
 - Identiverse                                                 2025-06
 - Cloud Security Alliance: CSA Virtual Cloud Non-Human Identity Summit 2025   2025-15/16-07
 - Women in Tech Global Conference (Virtual)                   2025-05
 - Developer Week                  (Virtual)                   2025-02
-- Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2024
-- AWS re:Invent                                               2024
-- Cloud Native Securite Con (CNSC)                            2024
-- AWS All Builder's Welcome re:Invent grant recipient         2023
+- Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2024-08
+- AWS re:Invent                                               2024-12
+- Cloud Native Securite Con (CNSC)                            2024=06
+- AWS All Builder's Welcome re:Invent grant recipient         2023-11
 ---
 
 ## 📫 <span id="contact"></span>Contact
