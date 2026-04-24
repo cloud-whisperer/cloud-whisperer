@@ -16,11 +16,12 @@
 
 ## 📌 About
 <h4>Securite-Focused Solutions Architect | Systems Administrator | Technical Lead (SaaS non-SLA)</h4> 
-🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | Cyber Resilience Strategist<br>
+🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Security &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | Highly regulated industries<br>
 
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
 <br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
+<br>- SaaS application and database administration | Enterprise-level security architecture | Network monitoring 
 <br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.<br>
 <br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL 
    servers.
