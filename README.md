@@ -1,7 +1,7 @@
 # Tolven  ☕🍕🐳🐙💻
 
 ## Enterprise-level Computer Network Security Architect <br>
-**<b>Purpose:</b>** Architected and implemented secure network solutions integrating DevSecOps principles into infrastructure and CI/CD pipelines, enabling:<br>
+**<b>Purpose:</b>** Specializing in architeturally secure network solutions integrating DevSecOps principles into infrastructure and CI/CD pipelines, enabling:<br>
 <br>- Continuous security validation 
 <br>- Database administration ( DBA ) | Backup and recovery validation | Data resilience
 <br>- Monitoring | Automated threat mitigation for alerts | Strategic critical monitoring  
