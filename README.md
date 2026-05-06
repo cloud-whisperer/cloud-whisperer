@@ -47,13 +47,9 @@
 | ⚖️ Compliance & Air-Gapped Operations | Operated within air-gapped and regulatory-sensitive environments                                                  | Maintained audit readiness and control enforcement under strict compliance requirements |
 | 🤝 Cross-Functional Execution         | Collaborated with engineering and compliance stakeholders                                                         | Aligned technical execution with enterprise security objectives                         |
 
-
-
-
 ---
 
 ## 🚀 <span id="projects"></span>Projects
-
 
 | Project | Description | ☁️ Services |
 |--------|-------------|--------------|
