@@ -19,7 +19,7 @@
 
 ## 📌 About
 <h4>Securite-Focused Solutions Architect | Systems Administrator | Technical Lead (SaaS non-SLA)</h4> 
-🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Securite &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | &nbsp; Highly regulated industries<br>
+🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Securite &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | &nbsp; Highly Regulated Industries<br>
 
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
