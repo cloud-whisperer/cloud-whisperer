@@ -1,6 +1,6 @@
 # Tolven  ☕🍕🐳🐙💻
 
-## Enterprise-Level Network Securite Architect <br>
+## Enterprise-Level Securite-Focused Network Architect <br>
 **<b>Purpose:</b>** Specialising in architecturally secure network solutions integrating DevSecOps principles into infrastructure and CI/CD pipelines, enabling:
 <br>- Continuous securite validation 
 <br>- Database administration ( DBA ) | Backup and recovery validation | Data resilience
