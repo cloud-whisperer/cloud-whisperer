@@ -2,9 +2,10 @@
 
 ## Enterprise-Level Securite-Focused Network Architect <br>
 **<b>Purpose:</b>** Specialising in architecturally secure network solutions integrating DevSecOps principles into infrastructure and CI/CD pipelines, enabling:
-<br>- Continuous securite validation 
-<br>- Database administration ( DBA ) | Backup and recovery validation | Data resilience
-<br>- Monitoring | Automated threat mitigation for alerts | Strategic critical monitoring  
+<br>- Continuous Securite Validation | AI-Driven Securite Automation
+<br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven Monitoring
+<br>- Database Administration ( DBA ) | Backup and Recovery Validation | Data Resilience
+<br>- Automated Threat Mitigation for Alerts | Strategic Critical Monitoring  
 
 
 ## 🧭 Navigation  
