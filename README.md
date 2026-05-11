@@ -25,7 +25,7 @@
 <br>- Data protection & IAM
 <br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
 <br>- SaaS application and database administration | Enterprise-level security architecture | Network monitoring 
-<br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles
+<br>- Sustained availability and control of SaaS application and database environments within regulated industries, ensuring alignment with enterprise security architecture principles.
 <br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL 
    servers.
 <br>- Oracle, AWS, and MySQL database administration using SQL Developer, MySQL WorkBench, awscli
