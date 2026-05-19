@@ -1,6 +1,6 @@
 # Tolven  ☕🍕🐳🐙💻
 
-## Securite-Focused Network Architect <br>
+## Security-Focused Network Architect | DevSecOps & Infrastructure Security <br>
 **<b>Purpose:</b>** Specialising in architecturally secure network solutions integrating DevSecOps principles into infrastructure, including CI/CD pipelines, enabling:
 <br>- Continuous AI-Driven Securite Automation
 <br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven Monitoring
