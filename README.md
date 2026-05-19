@@ -2,7 +2,7 @@
 
 # Security-Focused Network Architect  
 ### DevSecOps & Infrastructure Security <br>
-## **Purpose:</b>** Specialising in architecturally secure network solutions integrating DevSecOps principles into infrastructure, including CI/CD pipelines, enabling:
+**Purpose:</b>** Specialising in architecturally secure network solutions integrating DevSecOps principles into infrastructure, including CI/CD pipelines, enabling:
 <br>- Continuous AI-Driven Securite Automation
 <br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven Monitoring
 <br>- Database Administration ( DBA ) | Backup and Recovery Validation | Data Resilience
