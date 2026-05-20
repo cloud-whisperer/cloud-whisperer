@@ -59,7 +59,7 @@
 | **Hybrid Identity x File Server Migration Projekt** | Synchronize On-Premises Identity + Migrate File Shares to Microsoft Cloud Services with Zero Trust Controls | <br>- EntraID <br>- Entra Connect <br>- Azure VM <br>- Conditional Access <br>- Log Analytics <br>- Microsoft Purview <br>- SharePoint |
 | **AD Sync with Microsoft Entra ID** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | <br>- EntraID <br>- PowerShell <br>- Microsoft 365 |
 | **On-premise Active Directory (simulated Azure vm) to Entra ID x SharePoint Migration** | Migrated users and file shares securely from legacy infrastructure to Microsoft 365 cloud services. | <br>- EntraID <br>- PowerShell <br>- Microsoft 365 |
-| **🧭 AD-Entra-Connect-Sync-Entra-ID** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | EntraID, PowerShell, Microsoft 365 |
+| **🧭 AD-Entra-Connect-Sync-Entra-ID** | Set up Microsoft Entra Connect Sync between an on-premise Active Directory (DC-1) and Microsoft Entra ID | <br>- EntraID <b>- PowerShell <br>- Microsoft 365 |
 | **📦 On-Prem AD to Entra ID x SharePoint Migration** | 🔁 Migrate Users & File Shares Securely from Legacy Infrastructure to Microsoft 365 Cloud Services | EntraID, Entra Connect, Active Directory | 
 | **CloudFormation from CLI** | Python-based automation for secure resource deployment with IAM roles and audit logging | Python, AWS CLI, CloudTrail |
 | **🚀  AWS Beginner’s Guide to AWS App Integration** | Trigger Lambda with S3 uploads and monitor via CloudWatch logs | Lambda, S3, CloudWatch |
