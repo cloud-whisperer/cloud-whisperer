@@ -20,7 +20,7 @@
 --- 
 
 ## 📌 About
-🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Securite &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | &nbsp; Highly Regulated Industries<br>
+🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Securite &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp; | &nbsp; Highly Regulated Industries
 
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
