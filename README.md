@@ -24,7 +24,7 @@
 <br>- Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
 <br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
-<br>- SaaS application and database administration | Enterprise-level security architecture | Network &nbsp; &nbsp; &nbsp; &nbsp;  monitoring 
+<br>- SaaS application and database administration | Enterprise-level security architecture | Network monitoring 
 <br>- Systems administration of SaaS applications and database environments within highly regulated &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;industries. Ensure alignment with enterprise security architecture principles.
 <br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL servers.
 <br>- Oracle, AWS, and MySQL database administration using SQL Developer, MySQL WorkBench, awscli
