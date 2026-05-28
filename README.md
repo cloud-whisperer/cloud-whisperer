@@ -1,7 +1,7 @@
 # Tolven  ☕🍕🐳🐙💻
  
 ### DevSecOps & Infrastructure Security <br>
-**<b>Purpose:</b>** Specialising in architecturally secure network solutions integrating DevSecOps principles into infrastructure, including CI/CD pipelines.
+**<b>Purpose:</b>** Specialising in architecturally secure network solutions by integrating DevSecOps principles into infrastructure, including CI/CD pipelines.
 <hr>
 <br>- Continuous AI-Driven Securite Automation
 <br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven &nbsp;Monitoring
@@ -25,7 +25,7 @@
 <br>- Data protection & IAM
 <br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
 <br>- SaaS application and database administration | Enterprise-level security architecture | Network &nbsp; &nbsp; &nbsp; &nbsp;  monitoring 
-<br>- Systems administration of SaaS applications and database environments within regulated &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;industries. Ensure alignment with enterprise security architecture principles.
+<br>- Systems administration of SaaS applications and database environments within highly regulated &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;industries. Ensure alignment with enterprise security architecture principles.
 <br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL servers.
 <br>- Oracle, AWS, and MySQL database administration using SQL Developer, MySQL WorkBench, awscli
 <br>- Experienced in working with secure deployments using multi-layered authentication for  <br> &nbsp; &nbsp; &nbsp; &nbsp;high-security environments including SSO/LDAP/Shibboleth integrity 
