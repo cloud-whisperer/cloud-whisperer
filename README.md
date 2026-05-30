@@ -137,4 +137,4 @@ post-checks.
    
 ---
 
-_Thank you for visiting! This portfolio is a work in progress — more updates soon!_
+_Thank you for visiting! This portfolio is a work in progress — more updates soon!
