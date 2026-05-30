@@ -5,7 +5,7 @@
 <br>
 <br>- Continuous AI-Driven Securite Automation
 <br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven &nbsp;Monitoring
-<br>- Database Administration ( DBA ) | Backup and Recovery Validation | Data Resilience
+<br>- Database Administration (DBA) | Backup and Recovery Validation | Data Resilience
 <br>- Automated Threat Mitigation for Alerts | Strategic Critical Monitoring  
 
 ## 🧭 Navigation  
