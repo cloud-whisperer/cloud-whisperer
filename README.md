@@ -4,7 +4,7 @@
 **<b>Purpose:</b>** Specialising in architecturally secure network solutions by integrating DevSecOps principles into infrastructure, including CI/CD pipelines.
 <br>
 <br>- Continuous AI-Driven Securite Automation
-<br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven &nbsp;Monitoring
+<br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven Monitoring
 <br>- Database Administration (DBA) | Backup and Recovery Validation | Data Resilience
 <br>- Automated Threat Mitigation for Alerts | Strategic Critical Monitoring  
 
