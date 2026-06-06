@@ -1,6 +1,6 @@
 # Tolven  ☕🍕🐳🐙💻
  
-### DevSecOps & Infrastructure Security <br>
+### DevSecOps | Infrastructure Security <br>
 **<b>Purpose:</b>** Specialising in architecturally secure network solutions by integrating DevSecOps principles into infrastructure, including CI/CD pipelines.
 <br>
 <br>- Continuous AI-Driven Securite Automation
