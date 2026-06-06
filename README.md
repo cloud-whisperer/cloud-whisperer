@@ -19,18 +19,18 @@
 --- 
 
 ## 📌 About
-<br>🔹 Multi-cloud infrastructure ( AWS, Azure, Oracle )
-<br>- Data protection & IAM
-<br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
-<br>- SaaS application and database administration | Enterprise-level security architecture | Network monitoring 
-<br>- Systems administration of SaaS applications and database environments within highly regulated industries. &nbsp;&nbsp;&nbsp;&nbsp;Ensure alignment with enterprise security architecture principles and best practices.
-<br>- Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL servers.
-<br>- Oracle, AWS, and MySQL database administration using SQL Developer, MySQL WorkBench, awscli
-<br>- Experienced in working with secure deployments using multi-layered authentication for  <br> &nbsp; &nbsp; &nbsp; &nbsp;high-security environments including SSO/LDAP/Shibboleth integrity 
+<br>✦ Multi-cloud infrastructure ( AWS, Azure, Oracle )
+<br>✦ Data protection & IAM
+<br>✦ DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
+<br>✦ SaaS application and database administration | Enterprise-level security architecture | Network monitoring 
+<br>✦ Systems administration of SaaS applications and database environments within highly regulated industries. &nbsp;&nbsp;&nbsp;&nbsp;Ensure alignment with enterprise security architecture principles and best practices.
+<br>✦ Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL servers.
+<br>✦ Oracle, AWS, and MySQL database administration using SQL Developer, MySQL WorkBench, awscli
+<br>✦ Experienced in working with secure deployments using multi-layered authentication for  <br> &nbsp; &nbsp; &nbsp; &nbsp;high-security environments including SSO/LDAP/Shibboleth integrity 
 post-checks.
-<br>- Network automation of cloud platform resources using Terraform and 
+<br>✦ Network automation of cloud platform resources using Terraform and 
   Ansible.
-<br>- Recognised for effective cross-functional collaboration, and proficiency in 
+<br>✦ Recognised for effective cross-functional collaboration, and proficiency in 
   air-gapped and compliance-driven environments.
 
 --- 
