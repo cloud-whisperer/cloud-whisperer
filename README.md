@@ -19,7 +19,7 @@
 --- 
 
 ## 📌 About
-   - Multi-cloud infrastructure ( AWS, Azure, Oracle )
+<br>🔹 Multi-cloud infrastructure ( AWS, Azure, Oracle )
 <br>- Data protection & IAM
 <br>- DevSecOps | Terraform | Infrastructure as code (IaC) for network automation
 <br>- SaaS application and database administration | Enterprise-level security architecture | Network monitoring 
