@@ -114,6 +114,7 @@ post-checks.
 ---
 
 ## 🔒  Conferences
+- fwd:cloudsec                                                2026-06
 - AWS re:Invent                                               2025-12
 - SANS 2025 Cloud Securite Exchange                           2025-05
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025-08
