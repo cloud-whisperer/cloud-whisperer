@@ -2,7 +2,7 @@
  
 ### 🌐 Multi-Cloud &nbsp; | &nbsp; 🔐 Securite &nbsp; | &nbsp;🛠️ DevSecOps &nbsp; | &nbsp;🧠 Lifelong Learner &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Highly Regulated Industries <br>
 **<b>Purpose:</b>** Specialising in architecturally secure network solutions by integrating DevSecOps principles into infrastructure, including CI/CD pipelines.
-<br>
+
 <br>- Continuous AI-Driven Securite Automation
 <br>- Tamper-Resistant Audit Logging | IAM | Compliance-Driven Monitoring
 <br>- Database Administration (DBA) | Backup and Recovery Validation | Data Resilience
