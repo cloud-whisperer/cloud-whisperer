@@ -26,7 +26,7 @@
 <br>✦ Systems administration of SaaS applications and database environments within highly regulated industries. Ensure alignment with enterprise security architecture principles and best practices.
 <br>✦ Home-lab projects with STIG-aligned lockdown of Ubuntu | Rocky Linux | RHEL servers.
 <br>✦ Oracle, AWS, and MySQL database administration using SQL Developer, MySQL WorkBench, awscli
-<br>✦ Experienced in working with secure deployments using multi-layered authentication for  <br> &nbsp; &nbsp; &nbsp; &nbsp;high-security environments including SSO/LDAP/Shibboleth integrity 
+<br>✦ Experienced in working with secure deployments using multi-layered authentication for  <br> &nbsp; &nbsp; &nbsp;high-security environments including SSO/LDAP/Shibboleth integrity 
 post-checks.
 <br>✦ Network automation of cloud platform resources using Terraform and 
   Ansible.
