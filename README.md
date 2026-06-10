@@ -28,9 +28,8 @@
 <br>✦ Experienced in working with secure deployments using multi-layered authentication for  <br>  high-security environments including SSO/LDAP/Shibboleth integrity 
 post-checks.
 <br>✦ Network automation of cloud platform resources using Terraform and 
-  Ansible.
-<br>✦ Recognised for effective cross-functional collaboration, and proficiency in 
-  air-gapped and compliance-driven environments.
+  Ansible
+<br>✦ Recognised for effective cross-functional collaboration, mastery of the front-end of the SaaS applicaiton and proficiency in air-gapped and compliance-driven environments.
 
 --- 
 
