@@ -48,7 +48,32 @@ post-checks.
 
 | Project | Description | ☁️ Services |
 |--------|-------------|--------------|
-| **🛡️ Placeholder** | 🛠️  Text goes here.  | - Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder|
+| **🛡️Kubernetes_Docker_Terraform** | 🛠️  Local Cloud-Native Infrastructure Automation ☸️.  | ## 🧰 Technologies & Services Used
+
+| Technology / Service | Purpose |
+|---|---|
+| 🐍 **Python** | Backend application development |
+| 🌶️ **Flask** | REST API development and CRUD operations |
+| 🗄️ **MySQL 8.4** | Relational database management |
+| 🔌 **PyMySQL** | Python-to-MySQL connectivity |
+| 🐳 **Docker** | Application and database containerization |
+| 💾 **Docker Volumes** | Persistent database storage |
+| 🌐 **Docker Networks** | Container-to-container communication |
+| ☸️ **Kubernetes** | Container orchestration |
+| ⚙️ **Minikube** | Local Kubernetes cluster |
+| 📦 **Kubernetes Pods** | Application and database execution |
+| 🚀 **Kubernetes Deployments** | Container lifecycle and replica management |
+| 🔗 **Kubernetes Services** | Internal networking and service discovery |
+| 🔐 **Kubernetes Secrets** | Sensitive configuration management |
+| 🗂️ **Kubernetes ConfigMaps** | Non-sensitive configuration management |
+| 💿 **PersistentVolumeClaims (PVCs)** | Persistent Kubernetes storage |
+| 🩺 **Readiness & Liveness Probes** | Application health monitoring |
+| 🔧 **Terraform** | Infrastructure as Code (IaC) |
+| 🖥️ **Visual Studio Code** | Development environment |
+| 💻 **PowerShell** | Command-line administration and automation |
+| 🧪 **REST / HTTP** | API communication and functional testing |
+| 📝 **YAML** | Kubernetes resource configuration |
+| 🐙 **Git / GitHub** | Version control and project documentation |- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder <br>- Placeholder|
 | **🛡️ Automated Security Findings Pipeline** | 🛠️  🔐 A DevSecOps pipeline that used pre-deployment and post-scan analysis to transform infrastructure securite findings into structured, actionable securite events  | - checkov scanner <br>- tfsec <br>- jq <br>- PowerShell <br>- Transformed JSON output <br>- Amazon S3 bucket <br>- AWS SDK (boto3) <br>- AWS S3 API endpoint |
 | **[**🛡️ Manage Access Securely** <br>**Azure Active Directory Groups and Roles**]([https://github.com/cloud-whisperer/mini-projects/tree/main/azure-active-directory](https://github.com/cloud-whisperer/cloud-architecture-projects/tree/main/Network%20Health%20Check))**<br> | 🛠️  **Designed and validated role-based access control (RBAC) by:**<br> - Creation of a test user <br>- Assigned group-based permissions <br>- Verified least-privilege access through controlled login testing. | - Microsoft Entra ID <br>&nbsp;&nbsp;(Azure AD) <br>- Users <br>- Groups <br>- Azure RBAC <br>- Built-in Reader Role <br>- Access Control (IAM) |
 | **CloudTrail Monitoring & Security Infrastructure (Terraform)** | Provisioned a secure AWS environment with logging, monitoring, and alerting using Terraform IaC. | - CloudTrail <br>- S3 <br>- EC2 <br>- SQS <br>- SNS <br>- Lambda function <br>- IAM <br>- Terraform <br>- VS Code <br>- AWS SDK (Boto3) |
