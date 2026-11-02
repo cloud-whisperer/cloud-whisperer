@@ -49,9 +49,6 @@ post-checks.
 | Project | Description | ☁️ Services |
 |--------|-------------|--------------|
 | **🛡️Kubernetes_Docker_Terraform** | 🛠️  Local Cloud-Native Infrastructure Automation ☸️.  | ## 🧰 Technologies & Services Used
-
-| Technology / Service | Purpose |
-|---|---|
 | 🐍 **Python** | Backend application development |
 | 🌶️ **Flask** | REST API development and CRUD operations |
 | 🗄️ **MySQL 8.4** | Relational database management |
