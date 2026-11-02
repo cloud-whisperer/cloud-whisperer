@@ -48,10 +48,10 @@ post-checks.
 
 | Project | Description | ☁️ Services |
 |--------|-------------|--------------|
-| **🛡️Kubernetes_Docker_Terraform** | 🛠️  Local Cloud-Native Infrastructure Automation ☸️.  |  🧰 Technologies & Services Used <br>- 🐍 **Python**  Backend application development 
-<br>- 🌶️ **Flask**  REST API development and CRUD operations 
-<br>- 🗄️ **MySQL 8.4** | Relational database management 
-<br>- 🔌 **PyMySQL** | Python-to-MySQL connectivity 
+| **🛡️Kubernetes_Docker_Terraform** | 🛠️  Local Cloud-Native Infrastructure Automation ☸️.  |  🧰 Technologies & Services Used <br>- 🐍 **Python**  
+<br>- 🌶️ **Flask**  REST API development and CRUD  
+<br>- 🗄️ **MySQL 8.4** 
+<br>- 🔌 **PyMySQL** Python-to-MySQL connectivity 
 | 🐳 **Docker** | Application and database containerization 
 | 💾 **Docker Volumes** | Persistent database storage |
 | 🌐 **Docker Networks** | Container-to-container communication |
