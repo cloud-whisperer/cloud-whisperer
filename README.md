@@ -48,9 +48,9 @@ post-checks.
 
 | Project | Description | ☁️ Services |
 |--------|-------------|--------------|
-| **🛡️Kubernetes_Docker_Terraform** | 🛠️  Built a containerised application with a Flask API layer and a MySQL database layer.  ☸️.  |  🧰 Technologies & Services Used <br>- 🐍 **Python**  <br>- 🌶️ Flask  REST API development and CRUD 
+| **🛡️Kubernetes_Docker_Terraform** | 🛠️  Built a containerised application with a Flask API layer and a MySQL database layer ☸️ .  |  🧰 Technologies & Services Used <br>- 🐍 **Python**  <br>- 🌶️ Flask  REST API development and CRUD <br>- 🗄️ **MySQL 8.4** 
   
-<br>- 🗄️ **MySQL 8.4** 
+
 <br>- 🔌 **PyMySQL** Python-to-MySQL connectivity 
 | 🐳 **Docker** | Application and database containerization 
 | 💾 **Docker Volumes** | Persistent database storage |
